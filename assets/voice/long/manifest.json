@@ -1,0 +1,1262 @@
+[
+ {
+  "key": "i1",
+  "section": "intro",
+  "text": "Depuis plusieurs semaines, la France voit se multiplier les blocages et les manifestations.",
+  "spoken": "Depuis plusieurs semaines, la France voit se multiplier les blocages et les manifestations.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 5.0359375,
+  "file": "assets/voice/long/i1.wav"
+ },
+ {
+  "key": "i2",
+  "section": "intro",
+  "text": "Mais derrière les images de cortèges, de barrages et d'affrontements, une question reste essentielle.",
+  "spoken": "Mais derrière les images de cortèges, de barrages et d'affrontements, une question reste essentielle.",
+  "pause": 1.5,
+  "style": "n",
+  "dur": 5.165541666666667,
+  "file": "assets/voice/long/i2.wav"
+ },
+ {
+  "key": "i3",
+  "section": "intro",
+  "text": "Est-ce que tout cela peut réellement faire bouger l'État ?",
+  "spoken": "Est-ce que tout cela peut réellement faire bouger l'État ?",
+  "pause": 0.0,
+  "style": "g",
+  "dur": 2.882,
+  "file": "assets/voice/long/i3.wav"
+ },
+ {
+  "key": "c1a",
+  "section": "ch1",
+  "text": "Tout part d'un lycée.",
+  "spoken": "Tout part d'un lycée.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.1877916666666666,
+  "file": "assets/voice/long/c1a.wav"
+ },
+ {
+  "key": "c1b",
+  "section": "ch1",
+  "text": "Saint-Exupéry, à Créteil, dans le Val-de-Marne.",
+  "spoken": "Saint-Exupéry, à Créteil, dans le Val-de-Marne.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.0397291666666666,
+  "file": "assets/voice/long/c1b.wav"
+ },
+ {
+  "key": "c1c",
+  "section": "ch1",
+  "text": "Mi-septembre, des professeurs se mettent en grève : des postes ne sont pas pourvus.",
+  "spoken": "Mi-septembre, des professeurs se mettent en grève : des postes ne sont pas pourvus.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 4.273229166666667,
+  "file": "assets/voice/long/c1c.wav"
+ },
+ {
+  "key": "c1d",
+  "section": "ch1",
+  "text": "Les élèves suivent.",
+  "spoken": "Les élèves suivent.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.1575,
+  "file": "assets/voice/long/c1d.wav"
+ },
+ {
+  "key": "c1e",
+  "section": "ch1",
+  "text": "Quelques poubelles devant une grille.",
+  "spoken": "Quelques poubelles devant une grille.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.8700625,
+  "file": "assets/voice/long/c1e.wav"
+ },
+ {
+  "key": "c1f",
+  "section": "ch1",
+  "text": "Puis une dizaine de lycées en Île-de-France.",
+  "spoken": "Puis une dizaine de lycées en Île de France.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.1006666666666667,
+  "file": "assets/voice/long/c1f.wav"
+ },
+ {
+  "key": "c1g",
+  "section": "ch1",
+  "text": "Puis des centaines, dans tout le pays.",
+  "spoken": "Puis des centaines, dans tout le pays.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 2.3077916666666667,
+  "file": "assets/voice/long/c1g.wav"
+ },
+ {
+  "key": "c1h",
+  "section": "ch1",
+  "text": "Le 29 septembre, la fonction publique fait grève.",
+  "spoken": "Le vingt-neuf septembre, la fonction publique fait grève.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.465708333333333,
+  "file": "assets/voice/long/c1h.wav"
+ },
+ {
+  "key": "c1i",
+  "section": "ch1",
+  "text": "Le mouvement lycéen s'y accroche et change d'échelle.",
+  "spoken": "Le mouvement lycéen, s'y accroche et change d'échelle.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 3.4517083333333334,
+  "file": "assets/voice/long/c1i.wav"
+ },
+ {
+  "key": "c1j",
+  "section": "ch1",
+  "text": "Le 2 octobre, le ministre de l'Intérieur annonce 1 747 interpellations en une seule journée.",
+  "spoken": "Le deux octobre, le ministre de l'Intérieur annonce mille sept cent quarante-sept interpellations en une seule journée.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 6.4624375,
+  "file": "assets/voice/long/c1j.wav"
+ },
+ {
+  "key": "c1k",
+  "section": "ch1",
+  "text": "Le 6 octobre, c'est le pic.",
+  "spoken": "Le six octobre, c'est le pic.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.077916666666667,
+  "file": "assets/voice/long/c1k.wav"
+ },
+ {
+  "key": "c1l",
+  "section": "ch1",
+  "text": "256 000 manifestants selon le ministère de l'Intérieur.",
+  "spoken": "deux cent cinquante-six mille manifestants selon le ministère de l'Intérieur.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 4.435020833333334,
+  "file": "assets/voice/long/c1l.wav"
+ },
+ {
+  "key": "c1m",
+  "section": "ch1",
+  "text": "450 000 selon les organisateurs.",
+  "spoken": "quatre cent cinquante mille selon les organisateurs.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.3863541666666666,
+  "file": "assets/voice/long/c1m.wav"
+ },
+ {
+  "key": "c1n",
+  "section": "ch1",
+  "text": "Les deux camps ne comptent pas de la même façon : la police compte par segments sur le parcours, les organisateurs extrapolent à partir de leurs relevés.",
+  "spoken": "Les deux camps ne comptent pas de la même façon : la police compte par segments sur le parcours, les organisateurs extrapolent à partir de leurs relevés.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 8.026604166666667,
+  "file": "assets/voice/long/c1n.wav"
+ },
+ {
+  "key": "c1o",
+  "section": "ch1",
+  "text": "La vérité est probablement entre les deux.",
+  "spoken": "La vérité est probablement entre les deux.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 2.623625,
+  "file": "assets/voice/long/c1o.wav"
+ },
+ {
+  "key": "c1p",
+  "section": "ch1",
+  "text": "Le 8, la mobilisation retombe.",
+  "spoken": "Le huit, la mobilisation retombe.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.3760625,
+  "file": "assets/voice/long/c1p.wav"
+ },
+ {
+  "key": "c1q",
+  "section": "ch1",
+  "text": "Le 13 octobre, elle rebondit : 161 500 personnes selon l'Intérieur, 480 000 selon l'intersyndicale de la jeunesse.",
+  "spoken": "Le treize octobre, elle rebondit : cent soixante et un mille cinq cents personnes selon l'Intérieur, quatre cent quatre-vingt mille selon l'intersyndicale de la jeunesse.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 9.3573125,
+  "file": "assets/voice/long/c1q.wav"
+ },
+ {
+  "key": "c1r",
+  "section": "ch1",
+  "text": "Ce jour-là, le ministère de l'Éducation compte 214 lycées fermés.",
+  "spoken": "Ce jour-là, le ministère de l'Éducation compte deux cent quatorze lycées fermés.",
+  "pause": 0.25,
+  "style": "a",
+  "dur": 4.141791666666666,
+  "file": "assets/voice/long/c1r.wav"
+ },
+ {
+  "key": "c1s",
+  "section": "ch1",
+  "text": "Contre environ 800 le 6 octobre.",
+  "spoken": "Contre environ huit cents le six octobre.",
+  "pause": 0.25,
+  "style": "a",
+  "dur": 2.3809583333333335,
+  "file": "assets/voice/long/c1s.wav"
+ },
+ {
+  "key": "c1t",
+  "section": "ch1",
+  "text": "Il parle d'un mouvement « en recul ».",
+  "spoken": "Il parle d'un mouvement en recul .",
+  "pause": 0.25,
+  "style": "a",
+  "dur": 2.0793333333333335,
+  "file": "assets/voice/long/c1t.wav"
+ },
+ {
+  "key": "c1u",
+  "section": "ch1",
+  "text": "Les organisateurs, eux, parlent d'un mouvement installé.",
+  "spoken": "Les organisateurs, eux, parlent d'un mouvement installé.",
+  "pause": 0.0,
+  "style": "a",
+  "dur": 3.22125,
+  "file": "assets/voice/long/c1u.wav"
+ },
+ {
+  "key": "c2a",
+  "section": "ch2",
+  "text": "On parle souvent « des jeunes » comme d'un bloc.",
+  "spoken": "On parle souvent des jeunes comme d'un bloc.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.451020833333333,
+  "file": "assets/voice/long/c2a.wav"
+ },
+ {
+  "key": "c2b",
+  "section": "ch2",
+  "text": "Ce n'est pas le cas.",
+  "spoken": "Ce n'est pas le cas.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 1.0043125,
+  "file": "assets/voice/long/c2b.wav"
+ },
+ {
+  "key": "c2c",
+  "section": "ch2",
+  "text": "Les lycéens demandent des choses concrètes : des professeurs remplacés, des classes moins chargées, des bâtiments décents.",
+  "spoken": "Les lycéens demandent des choses concrètes : des professeurs remplacés, des classes moins chargées, des bâtiments décents.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 5.990395833333333,
+  "file": "assets/voice/long/c2c.wav"
+ },
+ {
+  "key": "c2d",
+  "section": "ch2",
+  "text": "Certains ajoutent leurs emplois du temps, ou l'interdiction du téléphone portable entrée en vigueur à la rentrée.",
+  "spoken": "Certains ajoutent leurs emplois du temps, ou l'interdiction du téléphone portable entrée en vigueur à la rentrée.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 6.2102916666666665,
+  "file": "assets/voice/long/c2d.wav"
+ },
+ {
+  "key": "c2e",
+  "section": "ch2",
+  "text": "Les étudiants parlent du budget des universités, de Parcoursup, de repas à un euro.",
+  "spoken": "Les étudiants parlent du budget des universités, de Parcours sup, de repas à un euro.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 5.135458333333333,
+  "file": "assets/voice/long/c2e.wav"
+ },
+ {
+  "key": "c2f",
+  "section": "ch2",
+  "text": "Les syndicats d'enseignants, eux, parlent de postes et de salaires.",
+  "spoken": "Les syndicats d'enseignants, eux, parlent de postes et de salaires.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.762,
+  "file": "assets/voice/long/c2f.wav"
+ },
+ {
+  "key": "c2g",
+  "section": "ch2",
+  "text": "Et les confédérations ont déjà fixé leur propre date : le 5 novembre.",
+  "spoken": "Et les confédérations ont déjà fixé leur propre date : le cinq novembre.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 4.5880833333333335,
+  "file": "assets/voice/long/c2g.wav"
+ },
+ {
+  "key": "c2h",
+  "section": "ch2",
+  "text": "Enfin, il y a le 17 octobre.",
+  "spoken": "Enfin, il y a le dix sept octobre.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.234729166666667,
+  "file": "assets/voice/long/c2h.wav"
+ },
+ {
+  "key": "c2i",
+  "section": "ch2",
+  "text": "Des appels lancés sur les réseaux sociaux, sous la bannière des gilets jaunes, sur le prix des carburants.",
+  "spoken": "Des appels lancés sur les réseaux sociaux, sous la bannière des gilets jaunes, sur le prix des carburants.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 5.5805,
+  "file": "assets/voice/long/c2i.wav"
+ },
+ {
+  "key": "c2j",
+  "section": "ch2",
+  "text": "Le gazole dépasse alors 2,35 euros le litre.",
+  "spoken": "Le gazole dépasse alors deux euros trente-cinq le litre.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 3.578104166666667,
+  "file": "assets/voice/long/c2j.wav"
+ },
+ {
+  "key": "c2k",
+  "section": "ch2",
+  "text": "Ce n'est pas le même mouvement.",
+  "spoken": "Ce n'est pas le même mouvement.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.6590416666666667,
+  "file": "assets/voice/long/c2k.wav"
+ },
+ {
+  "key": "c2l",
+  "section": "ch2",
+  "text": "Certains veulent qu'il le devienne.",
+  "spoken": "Certains veulent qu'il le devienne.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 1.8692083333333334,
+  "file": "assets/voice/long/c2l.wav"
+ },
+ {
+  "key": "c2m",
+  "section": "ch2",
+  "text": "Des revendications différentes, des calendriers différents.",
+  "spoken": "Des revendications différentes, des calendriers différents.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.4975416666666668,
+  "file": "assets/voice/long/c2m.wav"
+ },
+ {
+  "key": "c2n",
+  "section": "ch2",
+  "text": "C'est une force, parce que ça élargit la base.",
+  "spoken": "C'est une force, parce que ça élargit la base.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.876895833333333,
+  "file": "assets/voice/long/c2n.wav"
+ },
+ {
+  "key": "c2o",
+  "section": "ch2",
+  "text": "Et une faiblesse, parce que ça complique la négociation.",
+  "spoken": "Et une faiblesse, parce que ça complique la négociation.",
+  "pause": 1.0,
+  "style": "n",
+  "dur": 3.356708333333333,
+  "file": "assets/voice/long/c2o.wav"
+ },
+ {
+  "key": "c3a",
+  "section": "ch3",
+  "text": "Un blocage, c'est quoi, concrètement ?",
+  "spoken": "Un blocage, c'est quoi, concrètement ?",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.3886666666666665,
+  "file": "assets/voice/long/c3a.wav"
+ },
+ {
+  "key": "c3b",
+  "section": "ch3",
+  "text": "Des poubelles devant une grille, parfois des barrières.",
+  "spoken": "Des poubelles devant une grille, parfois des barrières.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.123125,
+  "file": "assets/voice/long/c3b.wav"
+ },
+ {
+  "key": "c3c",
+  "section": "ch3",
+  "text": "L'objectif : empêcher les cours, donc être visible.",
+  "spoken": "L'objectif : empêcher les cours, donc être visible.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.5022291666666665,
+  "file": "assets/voice/long/c3c.wav"
+ },
+ {
+  "key": "c3d",
+  "section": "ch3",
+  "text": "Et c'est très visible.",
+  "spoken": "Et c'est très visible.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.12875,
+  "file": "assets/voice/long/c3d.wav"
+ },
+ {
+  "key": "c3e",
+  "section": "ch3",
+  "text": "Pour les élèves, pour les parents, pour les caméras.",
+  "spoken": "Pour les élèves, pour les parents, pour les caméras.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 2.4930625,
+  "file": "assets/voice/long/c3e.wav"
+ },
+ {
+  "key": "c3f",
+  "section": "ch3",
+  "text": "Mais il faut distinguer deux échelles.",
+  "spoken": "Mais il faut distinguer deux échelles.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.0596875,
+  "file": "assets/voice/long/c3f.wav"
+ },
+ {
+  "key": "c3g",
+  "section": "ch3",
+  "text": "Localement, un lycée bloqué, c'est une journée perdue, des familles inquiètes, un proviseur sous pression.",
+  "spoken": "Localement, un lycée bloqué, c'est une journée perdue, des familles inquiètes, un proviseur sous pression.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 5.749729166666667,
+  "file": "assets/voice/long/c3g.wav"
+ },
+ {
+  "key": "c3h",
+  "section": "ch3",
+  "text": "Nationalement, la pression est d'une autre nature.",
+  "spoken": "Nationalement, la pression est d'une autre nature.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.0203125,
+  "file": "assets/voice/long/c3h.wav"
+ },
+ {
+  "key": "c3i",
+  "section": "ch3",
+  "text": "Un lycée fermé ne coûte rien de mesurable à l'économie.",
+  "spoken": "Un lycée fermé ne coûte rien de mesurable à l'économie.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.2546041666666667,
+  "file": "assets/voice/long/c3i.wav"
+ },
+ {
+  "key": "c3j",
+  "section": "ch3",
+  "text": "Il ne bloque ni une raffinerie, ni un port, ni le réseau de trains.",
+  "spoken": "Il ne bloque ni une raffinerie, ni un port, ni le réseau de trains.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 3.841479166666667,
+  "file": "assets/voice/long/c3j.wav"
+ },
+ {
+  "key": "c3k",
+  "section": "ch3",
+  "text": "Ce qui pèse sur l'État, c'est autre chose : la répétition, l'image, et surtout le risque.",
+  "spoken": "Ce qui pèse sur l'État, c'est autre chose : la répétition, l'image, et surtout le risque.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 5.361458333333333,
+  "file": "assets/voice/long/c3k.wav"
+ },
+ {
+  "key": "c3l",
+  "section": "ch3",
+  "text": "Le risque qu'un mineur soit gravement blessé.",
+  "spoken": "Le risque qu'un mineur soit gravement blessé.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.7546458333333335,
+  "file": "assets/voice/long/c3l.wav"
+ },
+ {
+  "key": "c3m",
+  "section": "ch3",
+  "text": "Le risque que les parents basculent.",
+  "spoken": "Le risque que les parents basculent.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.9590208333333334,
+  "file": "assets/voice/long/c3m.wav"
+ },
+ {
+  "key": "c3n",
+  "section": "ch3",
+  "text": "Le risque que d'autres secteurs rejoignent le mouvement.",
+  "spoken": "Le risque que d'autres secteurs rejoignent le mouvement.",
+  "pause": 0.0,
+  "style": "n",
+  "dur": 3.0449166666666665,
+  "file": "assets/voice/long/c3n.wav"
+ },
+ {
+  "key": "c4a",
+  "section": "ch4",
+  "text": "C'est la partie la plus difficile à raconter.",
+  "spoken": "C'est la partie la plus difficile à raconter.",
+  "pause": 0.34,
+  "style": "g",
+  "dur": 2.8404583333333333,
+  "file": "assets/voice/long/c4a.wav"
+ },
+ {
+  "key": "c4b",
+  "section": "ch4",
+  "text": "Il faut donc être précis.",
+  "spoken": "Il faut donc être précis.",
+  "pause": 0.6,
+  "style": "g",
+  "dur": 1.6929583333333333,
+  "file": "assets/voice/long/c4b.wav"
+ },
+ {
+  "key": "c4c",
+  "section": "ch4",
+  "text": "Selon le ministère de la Justice, 6 877 personnes ont été placées en garde à vue au 8 octobre.",
+  "spoken": "Selon le ministère de la Justice, six mille huit cent soixante-dix-sept personnes ont été placées en garde à vue au huit octobre.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 7.8703125,
+  "file": "assets/voice/long/c4c.wav"
+ },
+ {
+  "key": "c4d",
+  "section": "ch4",
+  "text": "86 % sont mineures.",
+  "spoken": "quatre-vingt-six pour cent sont mineures.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.2637708333333335,
+  "file": "assets/voice/long/c4d.wav"
+ },
+ {
+  "key": "c4e",
+  "section": "ch4",
+  "text": "Un chiffre sans précédent récent pour un mouvement social.",
+  "spoken": "Un chiffre sans précédent récent pour un mouvement social.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 3.546104166666667,
+  "file": "assets/voice/long/c4e.wav"
+ },
+ {
+  "key": "c4f",
+  "section": "ch4",
+  "text": "Selon Matignon, au 6 octobre, 715 policiers et gendarmes, 215 élèves et 85 personnels éducatifs avaient été blessés.",
+  "spoken": "Selon Matignon, au six octobre, sept cent quinze policiers et gendarmes, deux cent quinze élèves et quatre-vingt-cinq personnels éducatifs avaient été blessés.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 9.236729166666667,
+  "file": "assets/voice/long/c4f.wav"
+ },
+ {
+  "key": "c4g",
+  "section": "ch4",
+  "text": "Certains cas sont graves.",
+  "spoken": "Certains cas sont graves.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.325125,
+  "file": "assets/voice/long/c4g.wav"
+ },
+ {
+  "key": "c4h",
+  "section": "ch4",
+  "text": "À Lens, un lycéen de 15 ans a eu la main arrachée par une grenade.",
+  "spoken": "À Lance, un lycéen de quinze ans a eu la main arrachée par une grenade.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 4.469854166666667,
+  "file": "assets/voice/long/c4h.wav"
+ },
+ {
+  "key": "c4i",
+  "section": "ch4",
+  "text": "Près de Pontoise, un garçon de 14 ans a la mâchoire brisée.",
+  "spoken": "Près de Pontoise, un garçon de quatorze ans a la mâchoire brisée.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.6101875,
+  "file": "assets/voice/long/c4i.wav"
+ },
+ {
+  "key": "c4j",
+  "section": "ch4",
+  "text": "Des jeunes ont été touchés à l'œil, à Argenteuil et à Tours.",
+  "spoken": "Des jeunes ont été touchés à l'œil, à Argenteuil et à Tours.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.7703333333333333,
+  "file": "assets/voice/long/c4j.wav"
+ },
+ {
+  "key": "c4k",
+  "section": "ch4",
+  "text": "Selon France Bleu, 36 enquêtes ont été confiées à l'IGPN.",
+  "spoken": "Selon France Bleu, trente-six enquêtes ont été confiées à l'i gé pé ène.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 4.310708333333333,
+  "file": "assets/voice/long/c4k.wav"
+ },
+ {
+  "key": "c4l",
+  "section": "ch4",
+  "text": "Une enquête ouverte n'est pas une faute établie.",
+  "spoken": "Une enquête ouverte n'est pas une faute établie.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.8581041666666667,
+  "file": "assets/voice/long/c4l.wav"
+ },
+ {
+  "key": "c4m",
+  "section": "ch4",
+  "text": "C'est à la justice de le dire.",
+  "spoken": "C'est à la justice de le dire.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 1.8660416666666666,
+  "file": "assets/voice/long/c4m.wav"
+ },
+ {
+  "key": "c4n",
+  "section": "ch4",
+  "text": "Le ministre de l'Intérieur rejette le terme de répression « disproportionnée ».",
+  "spoken": "Le ministre de l'Intérieur rejette le terme de répression disproportionnée .",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 4.0988125,
+  "file": "assets/voice/long/c4n.wav"
+ },
+ {
+  "key": "c4o",
+  "section": "ch4",
+  "text": "Il a pourtant suspendu l'usage des grenades assourdissantes pour ce mouvement.",
+  "spoken": "Il a pourtant suspendu l'usage des grenades assourdissantes pour ce mouvement.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 4.230541666666666,
+  "file": "assets/voice/long/c4o.wav"
+ },
+ {
+  "key": "c4p",
+  "section": "ch4",
+  "text": "Le Syndicat de la magistrature, la Ligue des droits de l'Homme et des avocats dénoncent, eux, des interpellations préventives.",
+  "spoken": "Le Syndicat de la magistrature, la Ligue des droits de l'Homme et des avocats dénoncent, eux, des interpellations préventives.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 6.8940625,
+  "file": "assets/voice/long/c4p.wav"
+ },
+ {
+  "key": "c4q",
+  "section": "ch4",
+  "text": "Il y a aussi les violences commises en marge des cortèges.",
+  "spoken": "Il y a aussi les violences commises en marge des cortèges.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.3095625,
+  "file": "assets/voice/long/c4q.wav"
+ },
+ {
+  "key": "c4r",
+  "section": "ch4",
+  "text": "Selon le ministre de l'Éducation, 24 lycées ont été incendiés ou saccagés, et environ 30 000 élèves privés de cours en présentiel.",
+  "spoken": "Selon le ministre de l'Éducation, vingt-quatre lycées ont été incendiés ou saccagés, et environ trente mille élèves privés de cours en présentiel.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 8.657541666666667,
+  "file": "assets/voice/long/c4r.wav"
+ },
+ {
+  "key": "c4s",
+  "section": "ch4",
+  "text": "Deux réalités documentées.",
+  "spoken": "Deux réalités documentées.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.6556041666666668,
+  "file": "assets/voice/long/c4s.wav"
+ },
+ {
+  "key": "c4t",
+  "section": "ch4",
+  "text": "Aucune n'efface l'autre.",
+  "spoken": "Aucune n'efface l'autre.",
+  "pause": 0.0,
+  "style": "n",
+  "dur": 1.8343958333333332,
+  "file": "assets/voice/long/c4t.wav"
+ },
+ {
+  "key": "c5a",
+  "section": "ch5",
+  "text": "En Île-de-France, la région chiffre les dégâts à 8,5 millions d'euros.",
+  "spoken": "En Île de France, la région chiffre les dégâts à huit virgule cinq millions d'euros.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 4.732479166666667,
+  "file": "assets/voice/long/c5a.wav"
+ },
+ {
+  "key": "c5b",
+  "section": "ch5",
+  "text": "En Auvergne-Rhône-Alpes, le président de région avance 25 à 30 millions, abords et véhicules compris.",
+  "spoken": "En Auvergne-Rhône-Alpes, le président de région avance vingt-cinq à trente millions, abords et véhicules compris.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 6.033916666666666,
+  "file": "assets/voice/long/c5b.wav"
+ },
+ {
+  "key": "c5c",
+  "section": "ch5",
+  "text": "Un chiffre national de 30 millions circule.",
+  "spoken": "Un chiffre national de trente millions circule.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 2.8753125,
+  "file": "assets/voice/long/c5c.wav"
+ },
+ {
+  "key": "c5d",
+  "section": "ch5",
+  "text": "Mais les estimations régionales, additionnées, le dépassent déjà.",
+  "spoken": "Mais les estimations régionales, additionnées, le dépassent déjà.",
+  "pause": 1.2,
+  "style": "n",
+  "dur": 3.701979166666667,
+  "file": "assets/voice/long/c5d.wav"
+ },
+ {
+  "key": "c5e",
+  "section": "ch5",
+  "text": "Aucun coût total fiable n'est actuellement disponible.",
+  "spoken": "Aucun coût total, fiable, n'est actuellement disponible.",
+  "pause": 1.0,
+  "style": "g",
+  "dur": 3.919625,
+  "file": "assets/voice/long/c5e.wav"
+ },
+ {
+  "key": "c5f",
+  "section": "ch5",
+  "text": "Le gouvernement, lui, a chiffré sa première réponse : 3 000 professeurs remplaçants, pour « plusieurs dizaines de millions d'euros » cette année.",
+  "spoken": "Le gouvernement, lui, a chiffré sa première réponse : trois mille professeurs remplaçants, pour plusieurs dizaines de millions d'euros cette année.",
+  "pause": 1.0,
+  "style": "n",
+  "dur": 7.366604166666667,
+  "file": "assets/voice/long/c5f.wav"
+ },
+ {
+  "key": "c6a",
+  "section": "ch6",
+  "text": "Un gouvernement ne réagit pas simplement au nombre de personnes dans la rue.",
+  "spoken": "Un gouvernement ne réagit pas simplement au nombre de personnes dans la rue.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 4.194229166666666,
+  "file": "assets/voice/long/c6a.wav"
+ },
+ {
+  "key": "c6b",
+  "section": "ch6",
+  "text": "Il fait un calcul.",
+  "spoken": "Il fait un calcul.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 1.4911041666666667,
+  "file": "assets/voice/long/c6b.wav"
+ },
+ {
+  "key": "c6c",
+  "section": "ch6",
+  "text": "Combien de temps ça va durer ?",
+  "spoken": "Combien de temps ça va durer ?",
+  "pause": 0.45,
+  "style": "n",
+  "dur": 1.5731666666666666,
+  "file": "assets/voice/long/c6c.wav"
+ },
+ {
+  "key": "c6d",
+  "section": "ch6",
+  "text": "Qui est en grève, et dans quels secteurs ?",
+  "spoken": "Qui est en grève, et dans quels secteurs ?",
+  "pause": 0.45,
+  "style": "n",
+  "dur": 2.3155625,
+  "file": "assets/voice/long/c6d.wav"
+ },
+ {
+  "key": "c6e",
+  "section": "ch6",
+  "text": "Combien ça coûte à l'économie ?",
+  "spoken": "Combien ça coûte à l'économie ?",
+  "pause": 0.45,
+  "style": "n",
+  "dur": 1.6724166666666667,
+  "file": "assets/voice/long/c6e.wav"
+ },
+ {
+  "key": "c6f",
+  "section": "ch6",
+  "text": "Et surtout : que pense l'opinion ?",
+  "spoken": "Et surtout : que pense l'opinion ?",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 1.829375,
+  "file": "assets/voice/long/c6f.wav"
+ },
+ {
+  "key": "c6g",
+  "section": "ch6",
+  "text": "Sur ce point, les sondages de ces derniers jours disent tous la même chose.",
+  "spoken": "Sur ce point, les sondages de ces derniers jours disent tous la même chose.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 4.2939791666666665,
+  "file": "assets/voice/long/c6g.wav"
+ },
+ {
+  "key": "c6h",
+  "section": "ch6",
+  "text": "Entre 54 et 57 % des Français soutiennent ou approuvent le mouvement selon Ipsos-BVA et Cluster17.",
+  "spoken": "Entre cinquante-quatre et cinquante-sept pour cent des Français soutiennent ou approuvent le mouvement selon Ipsos bé vé a et Kleusteur dix-sept.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 7.499375,
+  "file": "assets/voice/long/c6h.wav"
+ },
+ {
+  "key": "c6i",
+  "section": "ch6",
+  "text": "Mais une majorité souhaite aussi qu'il s'arrête : 53 % selon Cluster17, 55 % selon Elabe.",
+  "spoken": "Mais une majorité souhaite aussi qu'il s'arrête : cinquante-trois pour cent selon Kleusteur dix-sept, cinquante-cinq pour cent selon Élabe.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 7.343729166666667,
+  "file": "assets/voice/long/c6i.wav"
+ },
+ {
+  "key": "c6j",
+  "section": "ch6",
+  "text": "C'est l'espace dans lequel un pouvoir peut attendre.",
+  "spoken": "C'est l'espace dans lequel un pouvoir peut attendre.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.4560416666666667,
+  "file": "assets/voice/long/c6j.wav"
+ },
+ {
+  "key": "c6k",
+  "section": "ch6",
+  "text": "Soutien aux causes, lassitude face aux blocages.",
+  "spoken": "Soutien aux causes, lassitude face aux blocages.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 3.367166666666667,
+  "file": "assets/voice/long/c6k.wav"
+ },
+ {
+  "key": "c6l",
+  "section": "ch6",
+  "text": "L'histoire le confirme.",
+  "spoken": "L'histoire le confirme.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.5816458333333334,
+  "file": "assets/voice/long/c6l.wav"
+ },
+ {
+  "key": "c6m",
+  "section": "ch6",
+  "text": "En 2006, le CPE est retiré après deux mois : étudiants, lycéens et tous les syndicats unis, l'opinion massivement contre.",
+  "spoken": "En deux mille six, le cé pé euh est retiré après deux mois : étudiants, lycéens et tous les syndicats unis, l'opinion massivement contre.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 8.012979166666666,
+  "file": "assets/voice/long/c6m.wav"
+ },
+ {
+  "key": "c6n",
+  "section": "ch6",
+  "text": "En 2010 et en 2023, les réformes des retraites passent, malgré des millions de manifestants et une intersyndicale unie.",
+  "spoken": "En deux mille dix et en deux mille vingt-trois, les réformes des retraites passent, malgré des millions de manifestants et une intersyndicale unie.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 8.044604166666666,
+  "file": "assets/voice/long/c6n.wav"
+ },
+ {
+  "key": "c6o",
+  "section": "ch6",
+  "text": "En 2018, les gilets jaunes obtiennent l'annulation d'une hausse de taxe et environ dix milliards d'euros de mesures, en quelques semaines.",
+  "spoken": "En deux mille dix-huit, les gilets jaunes obtiennent l'annulation d'une hausse de taxe et environ dix milliards d'euros de mesures, en quelques semaines.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 7.4878125,
+  "file": "assets/voice/long/c6o.wav"
+ },
+ {
+  "key": "c6p",
+  "section": "ch6",
+  "text": "En mai 68, une grève générale arrache les accords de Grenelle… puis le pouvoir gagne largement les élections de juin.",
+  "spoken": "En mai soixante-huit, une grève générale arrache les accords de Grenelle, puis le pouvoir gagne largement les élections de juin.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 6.936375,
+  "file": "assets/voice/long/c6p.wav"
+ },
+ {
+  "key": "c6q",
+  "section": "ch6",
+  "text": "Et à l'automne 2025, c'est la menace d'une censure à l'Assemblée, plus que la rue, qui conduit à suspendre la réforme des retraites.",
+  "spoken": "Et à l'automne deux mille vingt-cinq, c'est la menace d'une censure à l'Assemblée, plus que la rue, qui conduit à suspendre la réforme des retraites.",
+  "pause": 1.0,
+  "style": "n",
+  "dur": 7.742854166666667,
+  "file": "assets/voice/long/c6q.wav"
+ },
+ {
+  "key": "c6r",
+  "section": "ch6",
+  "text": "La leçon : manifester ne garantit rien.",
+  "spoken": "La leçon : manifester ne garantit rien.",
+  "pause": 0.34,
+  "style": "g",
+  "dur": 2.5445416666666665,
+  "file": "assets/voice/long/c6r.wav"
+ },
+ {
+  "key": "c6s",
+  "section": "ch6",
+  "text": "Ce qui fait bouger, c'est quand ne rien faire coûte plus cher que céder.",
+  "spoken": "Ce qui fait bouger, c'est quand ne rien faire coûte plus cher que céder.",
+  "pause": 0.0,
+  "style": "g",
+  "dur": 3.7178125,
+  "file": "assets/voice/long/c6s.wav"
+ },
+ {
+  "key": "d7a",
+  "section": "d17",
+  "text": "Samedi 17 octobre.",
+  "spoken": "Samedi dix-sept octobre.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 1.8643125,
+  "file": "assets/voice/long/d7a.wav"
+ },
+ {
+  "key": "d7b",
+  "section": "d17",
+  "text": "Premier jour des vacances de la Toussaint.",
+  "spoken": "Premier jour des vacances de la Toussaint.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 1.9552291666666666,
+  "file": "assets/voice/long/d7b.wav"
+ },
+ {
+  "key": "d7c",
+  "section": "d17",
+  "text": "Ce qui est confirmé : la CGT dit que ses militants seront présents « partout où les conditions sont réunies ».",
+  "spoken": "Ce qui est confirmé : la cé gé té dit que ses militants seront présents partout où les conditions sont réunies .",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 6.081791666666667,
+  "file": "assets/voice/long/d7c.wav"
+ },
+ {
+  "key": "d7d",
+  "section": "d17",
+  "text": "Ce qui est annoncé par les appelants : un rassemblement à Paris à 14 heures… place de la Bastille ou place de la République, selon les appels.",
+  "spoken": "Ce qui est annoncé par les appelants : un rassemblement à Paris à quatorze heures, place de la Bastille ou place de la République, selon les appels.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 7.923916666666667,
+  "file": "assets/voice/long/d7d.wav"
+ },
+ {
+  "key": "d7e",
+  "section": "d17",
+  "text": "Ce qui reste incertain : au 13 octobre au soir, aucune manifestation n'était déclarée à la préfecture de police de Paris, selon Public Sénat.",
+  "spoken": "Ce qui reste incertain : au treize octobre au soir, aucune manifestation n'était déclarée à la préfecture de police de Paris, selon Public Sénat.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 8.393166666666668,
+  "file": "assets/voice/long/d7e.wav"
+ },
+ {
+  "key": "d7f",
+  "section": "d17",
+  "text": "Les organisations lycéennes n'ont pas encore lancé d'appel formel.",
+  "spoken": "Les organisations lycéennes n'ont pas encore lancé d'appel formel.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.945854166666667,
+  "file": "assets/voice/long/d7f.wav"
+ },
+ {
+  "key": "d7g",
+  "section": "d17",
+  "text": "La grève des navigants aériens est suspendue.",
+  "spoken": "La grève des navigants aériens est suspendue.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 2.7791041666666665,
+  "file": "assets/voice/long/d7g.wav"
+ },
+ {
+  "key": "d7h",
+  "section": "d17",
+  "text": "Personne ne peut sérieusement prédire l'affluence.",
+  "spoken": "Personne ne peut sérieusement prédire l'affluence.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 3.0799791666666665,
+  "file": "assets/voice/long/d7h.wav"
+ },
+ {
+  "key": "d7i",
+  "section": "d17",
+  "text": "Et deux autres dates comptent déjà : fin octobre, pour les décisions du gouvernement, et le 5 novembre, pour les syndicats.",
+  "spoken": "Et deux autres dates comptent déjà : fin octobre, pour les décisions du gouvernement, et le cinq novembre, pour les syndicats.",
+  "pause": 0.0,
+  "style": "n",
+  "dur": 7.1844166666666665,
+  "file": "assets/voice/long/d7i.wav"
+ },
+ {
+  "key": "q1",
+  "section": "cond",
+  "text": "Historiquement, les mouvements qui obtiennent quelque chose cumulent plusieurs conditions.",
+  "spoken": "Historiquement, les mouvements qui obtiennent quelque chose cumulent plusieurs conditions.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 4.3611875,
+  "file": "assets/voice/long/q1.wav"
+ },
+ {
+  "key": "q2",
+  "section": "cond",
+  "text": "Une mobilisation large, et qui dure.",
+  "spoken": "Une mobilisation large, et qui dure.",
+  "pause": 0.4,
+  "style": "n",
+  "dur": 2.588,
+  "file": "assets/voice/long/q2.wav"
+ },
+ {
+  "key": "q3",
+  "section": "cond",
+  "text": "Des revendications précises, chiffrables.",
+  "spoken": "Des revendications précises, chiffrables.",
+  "pause": 0.4,
+  "style": "n",
+  "dur": 3.0068333333333332,
+  "file": "assets/voice/long/q3.wav"
+ },
+ {
+  "key": "q4",
+  "section": "cond",
+  "text": "Le soutien de l'opinion.",
+  "spoken": "Le soutien de l'opinion.",
+  "pause": 0.4,
+  "style": "n",
+  "dur": 1.4227708333333333,
+  "file": "assets/voice/long/q4.wav"
+ },
+ {
+  "key": "q5",
+  "section": "cond",
+  "text": "Des grèves dans plusieurs secteurs.",
+  "spoken": "Des grèves dans plusieurs secteurs.",
+  "pause": 0.4,
+  "style": "n",
+  "dur": 2.1209375,
+  "file": "assets/voice/long/q5.wav"
+ },
+ {
+  "key": "q6",
+  "section": "cond",
+  "text": "Des syndicats unis.",
+  "spoken": "Des syndicats unis.",
+  "pause": 0.4,
+  "style": "n",
+  "dur": 1.243875,
+  "file": "assets/voice/long/q6.wav"
+ },
+ {
+  "key": "q7",
+  "section": "cond",
+  "text": "Et des relais au Parlement.",
+  "spoken": "Et des relais au Parlement.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 1.6312083333333334,
+  "file": "assets/voice/long/q7.wav"
+ },
+ {
+  "key": "q8",
+  "section": "cond",
+  "text": "La violence, elle, n'est pas un accélérateur fiable.",
+  "spoken": "La violence, elle, n'est pas un accélérateur fiable.",
+  "pause": 0.34,
+  "style": "g",
+  "dur": 3.92775,
+  "file": "assets/voice/long/q8.wav"
+ },
+ {
+  "key": "q9",
+  "section": "cond",
+  "text": "Elle peut faire baisser le soutien du public, détourner l'attention des revendications, renforcer la ligne sécuritaire du gouvernement et diviser les manifestants.",
+  "spoken": "Elle peut faire baisser le soutien du public, détourner l'attention des revendications, renforcer la ligne sécuritaire du gouvernement et diviser les manifestants.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 8.654,
+  "file": "assets/voice/long/q9.wav"
+ },
+ {
+  "key": "q10",
+  "section": "cond",
+  "text": "Selon l'Ifop, 78 % des Français jugent « certains lycéens » responsables des débordements.",
+  "spoken": "Selon l'Ifop, soixante-dix-huit pour cent des Français jugent certains lycéens responsables des débordements.",
+  "pause": 0.34,
+  "style": "n",
+  "dur": 5.8475,
+  "file": "assets/voice/long/q10.wav"
+ },
+ {
+  "key": "q11",
+  "section": "cond",
+  "text": "Autant jugent le gouvernement responsable.",
+  "spoken": "Autant jugent le gouvernement responsable.",
+  "pause": 1.0,
+  "style": "n",
+  "dur": 2.4375,
+  "file": "assets/voice/long/q11.wav"
+ },
+ {
+  "key": "k1",
+  "section": "concl",
+  "text": "Une manifestation peut remplir une rue.",
+  "spoken": "Une manifestation peut remplir une rue.",
+  "pause": 0.4,
+  "style": "n",
+  "dur": 2.6420833333333333,
+  "file": "assets/voice/long/k1.wav"
+ },
+ {
+  "key": "k2",
+  "section": "concl",
+  "text": "Un blocage peut perturber une journée.",
+  "spoken": "Un blocage peut perturber une journée.",
+  "pause": 0.4,
+  "style": "n",
+  "dur": 2.4508125,
+  "file": "assets/voice/long/k2.wav"
+ },
+ {
+  "key": "k3",
+  "section": "concl",
+  "text": "Une grève peut ralentir une économie.",
+  "spoken": "Une grève peut ralentir une économie.",
+  "pause": 0.4,
+  "style": "n",
+  "dur": 2.4438958333333334,
+  "file": "assets/voice/long/k3.wav"
+ },
+ {
+  "key": "k4",
+  "section": "concl",
+  "text": "Mais aucun de ces éléments ne garantit à lui seul une victoire politique.",
+  "spoken": "Mais aucun de ces éléments ne garantit à lui seul une victoire politique.",
+  "pause": 0.8,
+  "style": "n",
+  "dur": 4.388354166666667,
+  "file": "assets/voice/long/k4.wav"
+ },
+ {
+  "key": "k5",
+  "section": "concl",
+  "text": "Ce qui compte réellement, c'est la capacité d'une mobilisation à durer, à conserver le soutien de l'opinion et à créer un coût politique suffisamment important pour que le gouvernement préfère négocier plutôt que continuer à ignorer la contestation.",
+  "spoken": "Ce qui compte réellement, c'est la capacité d'une mobilisation à durer, à conserver le soutien de l'opinion et à créer un coût politique suffisamment important pour que le gouvernement préfère négocier plutôt que continuer à ignorer la contestation.",
+  "pause": 0.6,
+  "style": "n",
+  "dur": 12.984041666666666,
+  "file": "assets/voice/long/k5.wav"
+ },
+ {
+  "key": "k6",
+  "section": "concl",
+  "text": "Le 17 octobre sera donc moins un test du nombre de personnes dans la rue qu'un test du rapport de force.",
+  "spoken": "Le dix-sept octobre sera donc moins un test du nombre de personnes dans la rue qu'un test du rapport de force.",
+  "pause": 2.0,
+  "style": "n",
+  "dur": 6.766604166666666,
+  "file": "assets/voice/long/k6.wav"
+ },
+ {
+  "key": "k7",
+  "section": "concl",
+  "text": "La vraie question n'est peut-être pas : combien seront-ils ?",
+  "spoken": "La vraie question n'est peut-être pas : combien seront-ils ?",
+  "pause": 1.0,
+  "style": "s",
+  "dur": 3.5830625,
+  "file": "assets/voice/long/k7.wav"
+ },
+ {
+  "key": "k8",
+  "section": "concl",
+  "text": "Mais : combien de temps le pouvoir pourra-t-il se permettre de ne pas répondre ?",
+  "spoken": "Mais : combien de temps le pouvoir pourra-t-il se permettre de ne pas répondre ?",
+  "pause": 0.0,
+  "style": "s",
+  "dur": 4.3585625,
+  "file": "assets/voice/long/k8.wav"
+ }
+]
