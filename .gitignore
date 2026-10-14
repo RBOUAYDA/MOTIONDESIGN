@@ -1,0 +1,8 @@
+# rendus et intermédiaires volumineux (régénérables via production/)
+build/
+exports/**/*.mp4
+assets/voice/**/*.wav
+assets/voice/*.wav
+assets/sfx/
+assets/music/
+__pycache__/
