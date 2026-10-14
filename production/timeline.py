@@ -194,14 +194,19 @@ def subtitles(items, measure):
         acc = 0
         for pi, p in enumerate(pages[:-1]):
             acc += plen[pi]
-            est = it["dur"] * acc / total_chars
+            # estimation sur le reste de la phrase, à partir de la dernière coupure retenue
+            rest = sum(plen[pi:])
+            est = bounds[-1] + (it["dur"] - bounds[-1]) * plen[pi] / max(1, rest)
             # cale la coupure sur le silence le plus proche
             best = None
             for (g0, g1) in gaps:
                 c = (g0 + g1) / 2
                 if abs(c - est) < 0.9 and (best is None or abs(c - est) < abs(best - est)):
                     best = c
-            bounds.append(best if best is not None else est)
+            b = best if best is not None else est
+            if b <= bounds[-1] + 0.6:   # deux coupures sur la même pause : on garde l'estimation
+                b = max(est, bounds[-1] + 0.8)
+            bounds.append(min(b, it["dur"] - 0.5))
         bounds.append(it["dur"])
         for i, p in enumerate(pages):
             a = it["start"] + bounds[i]; b = it["start"] + bounds[i + 1]
