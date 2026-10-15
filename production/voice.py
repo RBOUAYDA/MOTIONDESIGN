@@ -20,7 +20,7 @@ SR = 48000
 SPEED = {"n": 0.94, "g": 0.86, "a": 0.99, "s": 0.82}
 
 ABBR = [
-    (r"\bIpsos-BVA\b", "Ipsos bé vé a"),
+    (r"\bIpsos-BVA\b", "Ipsoss, bé vé a,"),
     (r"\bCluster17\b", "Kleusteur dix-sept"),
     (r"\bIGPN\b", "i gé pé ène"),
     (r"\bCGT\b", "cé gé té"),

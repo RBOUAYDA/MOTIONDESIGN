@@ -5,8 +5,8 @@
    "section": "intro",
    "text": "Depuis plusieurs semaines, la France voit se multiplier les blocages et les manifestations.",
    "start": 14.0,
-   "end": 19.036,
-   "dur": 5.0359375,
+   "end": 19.176,
+   "dur": 5.175708333333334,
    "file": "assets/voice/long/i1.wav",
    "style": "n",
    "pause": 0.8
@@ -15,9 +15,9 @@
    "key": "i2",
    "section": "intro",
    "text": "Mais derrière les images de cortèges, de barrages et d'affrontements, une question reste essentielle.",
-   "start": 19.836,
-   "end": 25.001,
-   "dur": 5.165541666666667,
+   "start": 19.976,
+   "end": 25.25,
+   "dur": 5.273979166666667,
    "file": "assets/voice/long/i2.wav",
    "style": "n",
    "pause": 1.5
@@ -26,9 +26,9 @@
    "key": "i3",
    "section": "intro",
    "text": "Est-ce que tout cela peut réellement faire bouger l'État ?",
-   "start": 26.501,
-   "end": 29.383,
-   "dur": 2.882,
+   "start": 26.75,
+   "end": 29.503,
+   "dur": 2.7531875,
    "file": "assets/voice/long/i3.wav",
    "style": "g",
    "pause": 0.0
@@ -37,9 +37,9 @@
    "key": "c1a",
    "section": "ch1",
    "text": "Tout part d'un lycée.",
-   "start": 43.683,
-   "end": 44.871,
-   "dur": 1.1877916666666666,
+   "start": 43.803,
+   "end": 44.955,
+   "dur": 1.1518541666666666,
    "file": "assets/voice/long/c1a.wav",
    "style": "n",
    "pause": 0.34
@@ -48,9 +48,9 @@
    "key": "c1b",
    "section": "ch1",
    "text": "Saint-Exupéry, à Créteil, dans le Val-de-Marne.",
-   "start": 45.211,
-   "end": 48.251,
-   "dur": 3.0397291666666666,
+   "start": 45.295,
+   "end": 48.222,
+   "dur": 2.9271041666666666,
    "file": "assets/voice/long/c1b.wav",
    "style": "n",
    "pause": 0.34
@@ -59,9 +59,9 @@
    "key": "c1c",
    "section": "ch1",
    "text": "Mi-septembre, des professeurs se mettent en grève : des postes ne sont pas pourvus.",
-   "start": 48.591,
-   "end": 52.864,
-   "dur": 4.273229166666667,
+   "start": 48.562,
+   "end": 52.914,
+   "dur": 4.3516875,
    "file": "assets/voice/long/c1c.wav",
    "style": "n",
    "pause": 0.8
@@ -70,9 +70,9 @@
    "key": "c1d",
    "section": "ch1",
    "text": "Les élèves suivent.",
-   "start": 53.664,
-   "end": 54.822,
-   "dur": 1.1575,
+   "start": 53.714,
+   "end": 54.905,
+   "dur": 1.1916041666666666,
    "file": "assets/voice/long/c1d.wav",
    "style": "n",
    "pause": 0.34
@@ -81,9 +81,9 @@
    "key": "c1e",
    "section": "ch1",
    "text": "Quelques poubelles devant une grille.",
-   "start": 55.162,
-   "end": 57.032,
-   "dur": 1.8700625,
+   "start": 55.245,
+   "end": 57.036,
+   "dur": 1.7906458333333333,
    "file": "assets/voice/long/c1e.wav",
    "style": "n",
    "pause": 0.34
@@ -92,9 +92,9 @@
    "key": "c1f",
    "section": "ch1",
    "text": "Puis une dizaine de lycées en Île-de-France.",
-   "start": 57.372,
-   "end": 60.472,
-   "dur": 3.1006666666666667,
+   "start": 57.376,
+   "end": 60.389,
+   "dur": 3.0127916666666668,
    "file": "assets/voice/long/c1f.wav",
    "style": "n",
    "pause": 0.34
@@ -103,9 +103,9 @@
    "key": "c1g",
    "section": "ch1",
    "text": "Puis des centaines, dans tout le pays.",
-   "start": 60.812,
-   "end": 63.12,
-   "dur": 2.3077916666666667,
+   "start": 60.729,
+   "end": 62.981,
+   "dur": 2.25275,
    "file": "assets/voice/long/c1g.wav",
    "style": "n",
    "pause": 0.6
@@ -114,9 +114,9 @@
    "key": "c1h",
    "section": "ch1",
    "text": "Le 29 septembre, la fonction publique fait grève.",
-   "start": 63.72,
-   "end": 67.186,
-   "dur": 3.465708333333333,
+   "start": 63.581,
+   "end": 66.958,
+   "dur": 3.3768541666666665,
    "file": "assets/voice/long/c1h.wav",
    "style": "n",
    "pause": 0.34
@@ -125,9 +125,9 @@
    "key": "c1i",
    "section": "ch1",
    "text": "Le mouvement lycéen s'y accroche et change d'échelle.",
-   "start": 67.526,
-   "end": 70.978,
-   "dur": 3.4517083333333334,
+   "start": 67.298,
+   "end": 70.555,
+   "dur": 3.256625,
    "file": "assets/voice/long/c1i.wav",
    "style": "n",
    "pause": 0.6
@@ -136,9 +136,9 @@
    "key": "c1j",
    "section": "ch1",
    "text": "Le 2 octobre, le ministre de l'Intérieur annonce 1 747 interpellations en une seule journée.",
-   "start": 71.578,
-   "end": 78.04,
-   "dur": 6.4624375,
+   "start": 71.155,
+   "end": 77.641,
+   "dur": 6.486375,
    "file": "assets/voice/long/c1j.wav",
    "style": "n",
    "pause": 0.8
@@ -147,9 +147,9 @@
    "key": "c1k",
    "section": "ch1",
    "text": "Le 6 octobre, c'est le pic.",
-   "start": 78.84,
-   "end": 80.918,
-   "dur": 2.077916666666667,
+   "start": 78.441,
+   "end": 80.417,
+   "dur": 1.9754791666666667,
    "file": "assets/voice/long/c1k.wav",
    "style": "n",
    "pause": 0.34
@@ -158,9 +158,9 @@
    "key": "c1l",
    "section": "ch1",
    "text": "256 000 manifestants selon le ministère de l'Intérieur.",
-   "start": 81.258,
-   "end": 85.693,
-   "dur": 4.435020833333334,
+   "start": 80.757,
+   "end": 85.155,
+   "dur": 4.398770833333334,
    "file": "assets/voice/long/c1l.wav",
    "style": "n",
    "pause": 0.34
@@ -169,9 +169,9 @@
    "key": "c1m",
    "section": "ch1",
    "text": "450 000 selon les organisateurs.",
-   "start": 86.033,
-   "end": 89.419,
-   "dur": 3.3863541666666666,
+   "start": 85.495,
+   "end": 88.853,
+   "dur": 3.3578333333333332,
    "file": "assets/voice/long/c1m.wav",
    "style": "n",
    "pause": 0.34
@@ -180,9 +180,9 @@
    "key": "c1n",
    "section": "ch1",
    "text": "Les deux camps ne comptent pas de la même façon : la police compte par segments sur le parcours, les organisateurs extrapolent à partir de leurs relevés.",
-   "start": 89.759,
-   "end": 97.786,
-   "dur": 8.026604166666667,
+   "start": 89.193,
+   "end": 97.13,
+   "dur": 7.936604166666666,
    "file": "assets/voice/long/c1n.wav",
    "style": "n",
    "pause": 0.34
@@ -191,9 +191,9 @@
    "key": "c1o",
    "section": "ch1",
    "text": "La vérité est probablement entre les deux.",
-   "start": 98.126,
-   "end": 100.75,
-   "dur": 2.623625,
+   "start": 97.47,
+   "end": 100.223,
+   "dur": 2.7527291666666667,
    "file": "assets/voice/long/c1o.wav",
    "style": "n",
    "pause": 0.6
@@ -202,9 +202,9 @@
    "key": "c1p",
    "section": "ch1",
    "text": "Le 8, la mobilisation retombe.",
-   "start": 101.35,
-   "end": 103.726,
-   "dur": 2.3760625,
+   "start": 100.823,
+   "end": 103.353,
+   "dur": 2.5300625,
    "file": "assets/voice/long/c1p.wav",
    "style": "n",
    "pause": 0.34
@@ -213,9 +213,9 @@
    "key": "c1q",
    "section": "ch1",
    "text": "Le 13 octobre, elle rebondit : 161 500 personnes selon l'Intérieur, 480 000 selon l'intersyndicale de la jeunesse.",
-   "start": 104.066,
-   "end": 113.423,
-   "dur": 9.3573125,
+   "start": 103.693,
+   "end": 113.198,
+   "dur": 9.5053125,
    "file": "assets/voice/long/c1q.wav",
    "style": "n",
    "pause": 0.6
@@ -224,9 +224,9 @@
    "key": "c1r",
    "section": "ch1",
    "text": "Ce jour-là, le ministère de l'Éducation compte 214 lycées fermés.",
-   "start": 114.023,
-   "end": 118.165,
-   "dur": 4.141791666666666,
+   "start": 113.798,
+   "end": 118.036,
+   "dur": 4.238270833333333,
    "file": "assets/voice/long/c1r.wav",
    "style": "a",
    "pause": 0.25
@@ -235,9 +235,9 @@
    "key": "c1s",
    "section": "ch1",
    "text": "Contre environ 800 le 6 octobre.",
-   "start": 118.415,
-   "end": 120.796,
-   "dur": 2.3809583333333335,
+   "start": 118.286,
+   "end": 120.825,
+   "dur": 2.5385625,
    "file": "assets/voice/long/c1s.wav",
    "style": "a",
    "pause": 0.25
@@ -246,9 +246,9 @@
    "key": "c1t",
    "section": "ch1",
    "text": "Il parle d'un mouvement « en recul ».",
-   "start": 121.046,
-   "end": 123.125,
-   "dur": 2.0793333333333335,
+   "start": 121.075,
+   "end": 123.334,
+   "dur": 2.2591666666666668,
    "file": "assets/voice/long/c1t.wav",
    "style": "a",
    "pause": 0.25
@@ -257,9 +257,9 @@
    "key": "c1u",
    "section": "ch1",
    "text": "Les organisateurs, eux, parlent d'un mouvement installé.",
-   "start": 123.375,
-   "end": 126.596,
-   "dur": 3.22125,
+   "start": 123.584,
+   "end": 126.574,
+   "dur": 2.9898333333333333,
    "file": "assets/voice/long/c1u.wav",
    "style": "a",
    "pause": 0.0
@@ -268,9 +268,9 @@
    "key": "c2a",
    "section": "ch2",
    "text": "On parle souvent « des jeunes » comme d'un bloc.",
-   "start": 128.996,
-   "end": 131.447,
-   "dur": 2.451020833333333,
+   "start": 128.974,
+   "end": 131.498,
+   "dur": 2.5246666666666666,
    "file": "assets/voice/long/c2a.wav",
    "style": "n",
    "pause": 0.34
@@ -279,9 +279,9 @@
    "key": "c2b",
    "section": "ch2",
    "text": "Ce n'est pas le cas.",
-   "start": 131.787,
-   "end": 132.792,
-   "dur": 1.0043125,
+   "start": 131.838,
+   "end": 132.802,
+   "dur": 0.9633958333333333,
    "file": "assets/voice/long/c2b.wav",
    "style": "n",
    "pause": 0.6
@@ -290,9 +290,9 @@
    "key": "c2c",
    "section": "ch2",
    "text": "Les lycéens demandent des choses concrètes : des professeurs remplacés, des classes moins chargées, des bâtiments décents.",
-   "start": 133.392,
-   "end": 139.382,
-   "dur": 5.990395833333333,
+   "start": 133.402,
+   "end": 139.268,
+   "dur": 5.865729166666667,
    "file": "assets/voice/long/c2c.wav",
    "style": "n",
    "pause": 0.34
@@ -301,9 +301,9 @@
    "key": "c2d",
    "section": "ch2",
    "text": "Certains ajoutent leurs emplois du temps, ou l'interdiction du téléphone portable entrée en vigueur à la rentrée.",
-   "start": 139.722,
-   "end": 145.932,
-   "dur": 6.2102916666666665,
+   "start": 139.608,
+   "end": 145.94,
+   "dur": 6.332708333333334,
    "file": "assets/voice/long/c2d.wav",
    "style": "n",
    "pause": 0.6
@@ -312,9 +312,9 @@
    "key": "c2e",
    "section": "ch2",
    "text": "Les étudiants parlent du budget des universités, de Parcoursup, de repas à un euro.",
-   "start": 146.532,
-   "end": 151.668,
-   "dur": 5.135458333333333,
+   "start": 146.54,
+   "end": 151.776,
+   "dur": 5.235541666666666,
    "file": "assets/voice/long/c2e.wav",
    "style": "n",
    "pause": 0.6
@@ -323,9 +323,9 @@
    "key": "c2f",
    "section": "ch2",
    "text": "Les syndicats d'enseignants, eux, parlent de postes et de salaires.",
-   "start": 152.268,
-   "end": 156.03,
-   "dur": 3.762,
+   "start": 152.376,
+   "end": 155.936,
+   "dur": 3.5605625,
    "file": "assets/voice/long/c2f.wav",
    "style": "n",
    "pause": 0.34
@@ -334,9 +334,9 @@
    "key": "c2g",
    "section": "ch2",
    "text": "Et les confédérations ont déjà fixé leur propre date : le 5 novembre.",
-   "start": 156.37,
-   "end": 160.958,
-   "dur": 4.5880833333333335,
+   "start": 156.276,
+   "end": 160.986,
+   "dur": 4.709833333333333,
    "file": "assets/voice/long/c2g.wav",
    "style": "n",
    "pause": 0.8
@@ -345,9 +345,9 @@
    "key": "c2h",
    "section": "ch2",
    "text": "Enfin, il y a le 17 octobre.",
-   "start": 161.758,
-   "end": 163.993,
-   "dur": 2.234729166666667,
+   "start": 161.786,
+   "end": 164.115,
+   "dur": 2.3285,
    "file": "assets/voice/long/c2h.wav",
    "style": "n",
    "pause": 0.34
@@ -356,9 +356,9 @@
    "key": "c2i",
    "section": "ch2",
    "text": "Des appels lancés sur les réseaux sociaux, sous la bannière des gilets jaunes, sur le prix des carburants.",
-   "start": 164.333,
-   "end": 169.913,
-   "dur": 5.5805,
+   "start": 164.455,
+   "end": 169.808,
+   "dur": 5.35325,
    "file": "assets/voice/long/c2i.wav",
    "style": "n",
    "pause": 0.34
@@ -367,9 +367,9 @@
    "key": "c2j",
    "section": "ch2",
    "text": "Le gazole dépasse alors 2,35 euros le litre.",
-   "start": 170.253,
-   "end": 173.831,
-   "dur": 3.578104166666667,
+   "start": 170.148,
+   "end": 173.857,
+   "dur": 3.7093958333333332,
    "file": "assets/voice/long/c2j.wav",
    "style": "n",
    "pause": 0.8
@@ -378,9 +378,9 @@
    "key": "c2k",
    "section": "ch2",
    "text": "Ce n'est pas le même mouvement.",
-   "start": 174.631,
-   "end": 176.29,
-   "dur": 1.6590416666666667,
+   "start": 174.657,
+   "end": 176.337,
+   "dur": 1.6795833333333334,
    "file": "assets/voice/long/c2k.wav",
    "style": "n",
    "pause": 0.34
@@ -389,9 +389,9 @@
    "key": "c2l",
    "section": "ch2",
    "text": "Certains veulent qu'il le devienne.",
-   "start": 176.63,
-   "end": 178.499,
-   "dur": 1.8692083333333334,
+   "start": 176.677,
+   "end": 178.488,
+   "dur": 1.8114583333333334,
    "file": "assets/voice/long/c2l.wav",
    "style": "n",
    "pause": 0.6
@@ -400,9 +400,9 @@
    "key": "c2m",
    "section": "ch2",
    "text": "Des revendications différentes, des calendriers différents.",
-   "start": 179.099,
-   "end": 182.597,
-   "dur": 3.4975416666666668,
+   "start": 179.088,
+   "end": 182.522,
+   "dur": 3.433708333333333,
    "file": "assets/voice/long/c2m.wav",
    "style": "n",
    "pause": 0.34
@@ -411,9 +411,9 @@
    "key": "c2n",
    "section": "ch2",
    "text": "C'est une force, parce que ça élargit la base.",
-   "start": 182.937,
-   "end": 185.814,
-   "dur": 2.876895833333333,
+   "start": 182.862,
+   "end": 185.88,
+   "dur": 3.0178333333333334,
    "file": "assets/voice/long/c2n.wav",
    "style": "n",
    "pause": 0.34
@@ -422,9 +422,9 @@
    "key": "c2o",
    "section": "ch2",
    "text": "Et une faiblesse, parce que ça complique la négociation.",
-   "start": 186.154,
-   "end": 189.511,
-   "dur": 3.356708333333333,
+   "start": 186.22,
+   "end": 189.476,
+   "dur": 3.256479166666667,
    "file": "assets/voice/long/c2o.wav",
    "style": "n",
    "pause": 1.0
@@ -433,9 +433,9 @@
    "key": "c3a",
    "section": "ch3",
    "text": "Un blocage, c'est quoi, concrètement ?",
-   "start": 192.911,
-   "end": 195.299,
-   "dur": 2.3886666666666665,
+   "start": 192.876,
+   "end": 195.456,
+   "dur": 2.5792916666666668,
    "file": "assets/voice/long/c3a.wav",
    "style": "n",
    "pause": 0.34
@@ -444,9 +444,9 @@
    "key": "c3b",
    "section": "ch3",
    "text": "Des poubelles devant une grille, parfois des barrières.",
-   "start": 195.639,
-   "end": 198.762,
-   "dur": 3.123125,
+   "start": 195.796,
+   "end": 199.1,
+   "dur": 3.3043541666666667,
    "file": "assets/voice/long/c3b.wav",
    "style": "n",
    "pause": 0.34
@@ -455,9 +455,9 @@
    "key": "c3c",
    "section": "ch3",
    "text": "L'objectif : empêcher les cours, donc être visible.",
-   "start": 199.102,
-   "end": 202.605,
-   "dur": 3.5022291666666665,
+   "start": 199.44,
+   "end": 202.816,
+   "dur": 3.3755625,
    "file": "assets/voice/long/c3c.wav",
    "style": "n",
    "pause": 0.34
@@ -466,9 +466,9 @@
    "key": "c3d",
    "section": "ch3",
    "text": "Et c'est très visible.",
-   "start": 202.945,
-   "end": 204.073,
-   "dur": 1.12875,
+   "start": 203.156,
+   "end": 204.431,
+   "dur": 1.2751875,
    "file": "assets/voice/long/c3d.wav",
    "style": "n",
    "pause": 0.34
@@ -477,9 +477,9 @@
    "key": "c3e",
    "section": "ch3",
    "text": "Pour les élèves, pour les parents, pour les caméras.",
-   "start": 204.413,
-   "end": 206.906,
-   "dur": 2.4930625,
+   "start": 204.771,
+   "end": 207.176,
+   "dur": 2.4049791666666667,
    "file": "assets/voice/long/c3e.wav",
    "style": "n",
    "pause": 0.8
@@ -488,9 +488,9 @@
    "key": "c3f",
    "section": "ch3",
    "text": "Mais il faut distinguer deux échelles.",
-   "start": 207.706,
-   "end": 209.766,
-   "dur": 2.0596875,
+   "start": 207.976,
+   "end": 209.985,
+   "dur": 2.008958333333333,
    "file": "assets/voice/long/c3f.wav",
    "style": "n",
    "pause": 0.34
@@ -499,9 +499,9 @@
    "key": "c3g",
    "section": "ch3",
    "text": "Localement, un lycée bloqué, c'est une journée perdue, des familles inquiètes, un proviseur sous pression.",
-   "start": 210.106,
-   "end": 215.856,
-   "dur": 5.749729166666667,
+   "start": 210.325,
+   "end": 216.098,
+   "dur": 5.772916666666666,
    "file": "assets/voice/long/c3g.wav",
    "style": "n",
    "pause": 0.6
@@ -510,9 +510,9 @@
    "key": "c3h",
    "section": "ch3",
    "text": "Nationalement, la pression est d'une autre nature.",
-   "start": 216.456,
-   "end": 219.476,
-   "dur": 3.0203125,
+   "start": 216.698,
+   "end": 219.799,
+   "dur": 3.10175,
    "file": "assets/voice/long/c3h.wav",
    "style": "n",
    "pause": 0.34
@@ -521,9 +521,9 @@
    "key": "c3i",
    "section": "ch3",
    "text": "Un lycée fermé ne coûte rien de mesurable à l'économie.",
-   "start": 219.816,
-   "end": 223.071,
-   "dur": 3.2546041666666667,
+   "start": 220.139,
+   "end": 223.52,
+   "dur": 3.3803541666666668,
    "file": "assets/voice/long/c3i.wav",
    "style": "n",
    "pause": 0.34
@@ -532,9 +532,9 @@
    "key": "c3j",
    "section": "ch3",
    "text": "Il ne bloque ni une raffinerie, ni un port, ni le réseau de trains.",
-   "start": 223.411,
-   "end": 227.252,
-   "dur": 3.841479166666667,
+   "start": 223.86,
+   "end": 227.808,
+   "dur": 3.948,
    "file": "assets/voice/long/c3j.wav",
    "style": "n",
    "pause": 0.8
@@ -543,9 +543,9 @@
    "key": "c3k",
    "section": "ch3",
    "text": "Ce qui pèse sur l'État, c'est autre chose : la répétition, l'image, et surtout le risque.",
-   "start": 228.052,
-   "end": 233.414,
-   "dur": 5.361458333333333,
+   "start": 228.608,
+   "end": 234.288,
+   "dur": 5.679708333333333,
    "file": "assets/voice/long/c3k.wav",
    "style": "n",
    "pause": 0.34
@@ -554,9 +554,9 @@
    "key": "c3l",
    "section": "ch3",
    "text": "Le risque qu'un mineur soit gravement blessé.",
-   "start": 233.754,
-   "end": 236.508,
-   "dur": 2.7546458333333335,
+   "start": 234.628,
+   "end": 237.083,
+   "dur": 2.455791666666667,
    "file": "assets/voice/long/c3l.wav",
    "style": "n",
    "pause": 0.34
@@ -565,9 +565,9 @@
    "key": "c3m",
    "section": "ch3",
    "text": "Le risque que les parents basculent.",
-   "start": 236.848,
-   "end": 238.807,
-   "dur": 1.9590208333333334,
+   "start": 237.423,
+   "end": 239.376,
+   "dur": 1.9529791666666667,
    "file": "assets/voice/long/c3m.wav",
    "style": "n",
    "pause": 0.34
@@ -576,9 +576,9 @@
    "key": "c3n",
    "section": "ch3",
    "text": "Le risque que d'autres secteurs rejoignent le mouvement.",
-   "start": 239.147,
-   "end": 242.192,
-   "dur": 3.0449166666666665,
+   "start": 239.716,
+   "end": 242.71,
+   "dur": 2.9934375,
    "file": "assets/voice/long/c3n.wav",
    "style": "n",
    "pause": 0.0
@@ -587,9 +587,9 @@
    "key": "c4a",
    "section": "ch4",
    "text": "C'est la partie la plus difficile à raconter.",
-   "start": 246.192,
-   "end": 249.033,
-   "dur": 2.8404583333333333,
+   "start": 246.71,
+   "end": 249.595,
+   "dur": 2.8848541666666665,
    "file": "assets/voice/long/c4a.wav",
    "style": "g",
    "pause": 0.34
@@ -598,9 +598,9 @@
    "key": "c4b",
    "section": "ch4",
    "text": "Il faut donc être précis.",
-   "start": 249.373,
-   "end": 251.066,
-   "dur": 1.6929583333333333,
+   "start": 249.935,
+   "end": 251.65,
+   "dur": 1.7150416666666666,
    "file": "assets/voice/long/c4b.wav",
    "style": "g",
    "pause": 0.6
@@ -609,9 +609,9 @@
    "key": "c4c",
    "section": "ch4",
    "text": "Selon le ministère de la Justice, 6 877 personnes ont été placées en garde à vue au 8 octobre.",
-   "start": 251.666,
-   "end": 259.536,
-   "dur": 7.8703125,
+   "start": 252.25,
+   "end": 260.062,
+   "dur": 7.812854166666667,
    "file": "assets/voice/long/c4c.wav",
    "style": "n",
    "pause": 0.34
@@ -620,9 +620,9 @@
    "key": "c4d",
    "section": "ch4",
    "text": "86 % sont mineures.",
-   "start": 259.876,
-   "end": 262.14,
-   "dur": 2.2637708333333335,
+   "start": 260.402,
+   "end": 262.698,
+   "dur": 2.2955,
    "file": "assets/voice/long/c4d.wav",
    "style": "n",
    "pause": 0.34
@@ -631,9 +631,9 @@
    "key": "c4e",
    "section": "ch4",
    "text": "Un chiffre sans précédent récent pour un mouvement social.",
-   "start": 262.48,
-   "end": 266.026,
-   "dur": 3.546104166666667,
+   "start": 263.038,
+   "end": 266.572,
+   "dur": 3.533541666666667,
    "file": "assets/voice/long/c4e.wav",
    "style": "n",
    "pause": 0.6
@@ -642,9 +642,9 @@
    "key": "c4f",
    "section": "ch4",
    "text": "Selon Matignon, au 6 octobre, 715 policiers et gendarmes, 215 élèves et 85 personnels éducatifs avaient été blessés.",
-   "start": 266.626,
-   "end": 275.863,
-   "dur": 9.236729166666667,
+   "start": 267.172,
+   "end": 276.503,
+   "dur": 9.3313125,
    "file": "assets/voice/long/c4f.wav",
    "style": "n",
    "pause": 0.8
@@ -653,9 +653,9 @@
    "key": "c4g",
    "section": "ch4",
    "text": "Certains cas sont graves.",
-   "start": 276.663,
-   "end": 277.988,
-   "dur": 1.325125,
+   "start": 277.303,
+   "end": 278.735,
+   "dur": 1.4324375,
    "file": "assets/voice/long/c4g.wav",
    "style": "n",
    "pause": 0.34
@@ -664,9 +664,9 @@
    "key": "c4h",
    "section": "ch4",
    "text": "À Lens, un lycéen de 15 ans a eu la main arrachée par une grenade.",
-   "start": 278.328,
-   "end": 282.798,
-   "dur": 4.469854166666667,
+   "start": 279.075,
+   "end": 283.592,
+   "dur": 4.516291666666667,
    "file": "assets/voice/long/c4h.wav",
    "style": "n",
    "pause": 0.34
@@ -675,9 +675,9 @@
    "key": "c4i",
    "section": "ch4",
    "text": "Près de Pontoise, un garçon de 14 ans a la mâchoire brisée.",
-   "start": 283.138,
-   "end": 286.748,
-   "dur": 3.6101875,
+   "start": 283.932,
+   "end": 287.534,
+   "dur": 3.6022916666666664,
    "file": "assets/voice/long/c4i.wav",
    "style": "n",
    "pause": 0.34
@@ -686,9 +686,9 @@
    "key": "c4j",
    "section": "ch4",
    "text": "Des jeunes ont été touchés à l'œil, à Argenteuil et à Tours.",
-   "start": 287.088,
-   "end": 290.858,
-   "dur": 3.7703333333333333,
+   "start": 287.874,
+   "end": 291.653,
+   "dur": 3.7789166666666665,
    "file": "assets/voice/long/c4j.wav",
    "style": "n",
    "pause": 0.34
@@ -697,9 +697,9 @@
    "key": "c4k",
    "section": "ch4",
    "text": "Selon France Bleu, 36 enquêtes ont été confiées à l'IGPN.",
-   "start": 291.198,
-   "end": 295.509,
-   "dur": 4.310708333333333,
+   "start": 291.993,
+   "end": 296.154,
+   "dur": 4.161125,
    "file": "assets/voice/long/c4k.wav",
    "style": "n",
    "pause": 0.8
@@ -708,9 +708,9 @@
    "key": "c4l",
    "section": "ch4",
    "text": "Une enquête ouverte n'est pas une faute établie.",
-   "start": 296.309,
-   "end": 299.167,
-   "dur": 2.8581041666666667,
+   "start": 296.954,
+   "end": 299.947,
+   "dur": 2.9926458333333334,
    "file": "assets/voice/long/c4l.wav",
    "style": "n",
    "pause": 0.34
@@ -719,9 +719,9 @@
    "key": "c4m",
    "section": "ch4",
    "text": "C'est à la justice de le dire.",
-   "start": 299.507,
-   "end": 301.373,
-   "dur": 1.8660416666666666,
+   "start": 300.287,
+   "end": 302.439,
+   "dur": 2.1520208333333333,
    "file": "assets/voice/long/c4m.wav",
    "style": "n",
    "pause": 0.6
@@ -730,9 +730,9 @@
    "key": "c4n",
    "section": "ch4",
    "text": "Le ministre de l'Intérieur rejette le terme de répression « disproportionnée ».",
-   "start": 301.973,
-   "end": 306.072,
-   "dur": 4.0988125,
+   "start": 303.039,
+   "end": 307.167,
+   "dur": 4.1280833333333335,
    "file": "assets/voice/long/c4n.wav",
    "style": "n",
    "pause": 0.34
@@ -741,9 +741,9 @@
    "key": "c4o",
    "section": "ch4",
    "text": "Il a pourtant suspendu l'usage des grenades assourdissantes pour ce mouvement.",
-   "start": 306.412,
-   "end": 310.642,
-   "dur": 4.230541666666666,
+   "start": 307.507,
+   "end": 311.697,
+   "dur": 4.190125,
    "file": "assets/voice/long/c4o.wav",
    "style": "n",
    "pause": 0.34
@@ -752,9 +752,9 @@
    "key": "c4p",
    "section": "ch4",
    "text": "Le Syndicat de la magistrature, la Ligue des droits de l'Homme et des avocats dénoncent, eux, des interpellations préventives.",
-   "start": 310.982,
-   "end": 317.876,
-   "dur": 6.8940625,
+   "start": 312.037,
+   "end": 318.812,
+   "dur": 6.775729166666666,
    "file": "assets/voice/long/c4p.wav",
    "style": "n",
    "pause": 0.8
@@ -763,9 +763,9 @@
    "key": "c4q",
    "section": "ch4",
    "text": "Il y a aussi les violences commises en marge des cortèges.",
-   "start": 318.676,
-   "end": 321.986,
-   "dur": 3.3095625,
+   "start": 319.612,
+   "end": 322.645,
+   "dur": 3.0321666666666665,
    "file": "assets/voice/long/c4q.wav",
    "style": "n",
    "pause": 0.34
@@ -774,9 +774,9 @@
    "key": "c4r",
    "section": "ch4",
    "text": "Selon le ministre de l'Éducation, 24 lycées ont été incendiés ou saccagés, et environ 30 000 élèves privés de cours en présentiel.",
-   "start": 322.326,
-   "end": 330.984,
-   "dur": 8.657541666666667,
+   "start": 322.985,
+   "end": 331.774,
+   "dur": 8.7894375,
    "file": "assets/voice/long/c4r.wav",
    "style": "n",
    "pause": 0.6
@@ -785,9 +785,9 @@
    "key": "c4s",
    "section": "ch4",
    "text": "Deux réalités documentées.",
-   "start": 331.584,
-   "end": 333.239,
-   "dur": 1.6556041666666668,
+   "start": 332.374,
+   "end": 334.013,
+   "dur": 1.638875,
    "file": "assets/voice/long/c4s.wav",
    "style": "n",
    "pause": 0.34
@@ -796,9 +796,9 @@
    "key": "c4t",
    "section": "ch4",
    "text": "Aucune n'efface l'autre.",
-   "start": 333.579,
-   "end": 335.414,
-   "dur": 1.8343958333333332,
+   "start": 334.353,
+   "end": 336.007,
+   "dur": 1.6540625,
    "file": "assets/voice/long/c4t.wav",
    "style": "n",
    "pause": 0.0
@@ -807,9 +807,9 @@
    "key": "c5a",
    "section": "ch5",
    "text": "En Île-de-France, la région chiffre les dégâts à 8,5 millions d'euros.",
-   "start": 337.614,
-   "end": 342.346,
-   "dur": 4.732479166666667,
+   "start": 338.207,
+   "end": 342.868,
+   "dur": 4.6605,
    "file": "assets/voice/long/c5a.wav",
    "style": "n",
    "pause": 0.34
@@ -818,9 +818,9 @@
    "key": "c5b",
    "section": "ch5",
    "text": "En Auvergne-Rhône-Alpes, le président de région avance 25 à 30 millions, abords et véhicules compris.",
-   "start": 342.686,
-   "end": 348.72,
-   "dur": 6.033916666666666,
+   "start": 343.208,
+   "end": 349.295,
+   "dur": 6.087166666666667,
    "file": "assets/voice/long/c5b.wav",
    "style": "n",
    "pause": 0.6
@@ -829,9 +829,9 @@
    "key": "c5c",
    "section": "ch5",
    "text": "Un chiffre national de 30 millions circule.",
-   "start": 349.32,
-   "end": 352.195,
-   "dur": 2.8753125,
+   "start": 349.895,
+   "end": 352.827,
+   "dur": 2.932541666666667,
    "file": "assets/voice/long/c5c.wav",
    "style": "n",
    "pause": 0.34
@@ -840,9 +840,9 @@
    "key": "c5d",
    "section": "ch5",
    "text": "Mais les estimations régionales, additionnées, le dépassent déjà.",
-   "start": 352.535,
-   "end": 356.237,
-   "dur": 3.701979166666667,
+   "start": 353.167,
+   "end": 356.999,
+   "dur": 3.8316666666666666,
    "file": "assets/voice/long/c5d.wav",
    "style": "n",
    "pause": 1.2
@@ -851,9 +851,9 @@
    "key": "c5e",
    "section": "ch5",
    "text": "Aucun coût total fiable n'est actuellement disponible.",
-   "start": 357.437,
-   "end": 361.357,
-   "dur": 3.919625,
+   "start": 358.199,
+   "end": 362.085,
+   "dur": 3.8858333333333333,
    "file": "assets/voice/long/c5e.wav",
    "style": "g",
    "pause": 1.0
@@ -862,9 +862,9 @@
    "key": "c5f",
    "section": "ch5",
    "text": "Le gouvernement, lui, a chiffré sa première réponse : 3 000 professeurs remplaçants, pour « plusieurs dizaines de millions d'euros » cette année.",
-   "start": 362.357,
-   "end": 369.723,
-   "dur": 7.366604166666667,
+   "start": 363.085,
+   "end": 370.508,
+   "dur": 7.4236875,
    "file": "assets/voice/long/c5f.wav",
    "style": "n",
    "pause": 1.0
@@ -873,9 +873,9 @@
    "key": "c6a",
    "section": "ch6",
    "text": "Un gouvernement ne réagit pas simplement au nombre de personnes dans la rue.",
-   "start": 373.123,
-   "end": 377.318,
-   "dur": 4.194229166666666,
+   "start": 373.908,
+   "end": 378.184,
+   "dur": 4.275729166666666,
    "file": "assets/voice/long/c6a.wav",
    "style": "n",
    "pause": 0.34
@@ -884,9 +884,9 @@
    "key": "c6b",
    "section": "ch6",
    "text": "Il fait un calcul.",
-   "start": 377.658,
-   "end": 379.149,
-   "dur": 1.4911041666666667,
+   "start": 378.524,
+   "end": 380.009,
+   "dur": 1.4845833333333334,
    "file": "assets/voice/long/c6b.wav",
    "style": "n",
    "pause": 0.8
@@ -895,9 +895,9 @@
    "key": "c6c",
    "section": "ch6",
    "text": "Combien de temps ça va durer ?",
-   "start": 379.949,
-   "end": 381.522,
-   "dur": 1.5731666666666666,
+   "start": 380.809,
+   "end": 382.232,
+   "dur": 1.4233125,
    "file": "assets/voice/long/c6c.wav",
    "style": "n",
    "pause": 0.45
@@ -906,9 +906,9 @@
    "key": "c6d",
    "section": "ch6",
    "text": "Qui est en grève, et dans quels secteurs ?",
-   "start": 381.972,
-   "end": 384.287,
-   "dur": 2.3155625,
+   "start": 382.682,
+   "end": 385.201,
+   "dur": 2.519375,
    "file": "assets/voice/long/c6d.wav",
    "style": "n",
    "pause": 0.45
@@ -917,9 +917,9 @@
    "key": "c6e",
    "section": "ch6",
    "text": "Combien ça coûte à l'économie ?",
-   "start": 384.737,
-   "end": 386.41,
-   "dur": 1.6724166666666667,
+   "start": 385.651,
+   "end": 387.338,
+   "dur": 1.68675,
    "file": "assets/voice/long/c6e.wav",
    "style": "n",
    "pause": 0.45
@@ -928,9 +928,9 @@
    "key": "c6f",
    "section": "ch6",
    "text": "Et surtout : que pense l'opinion ?",
-   "start": 386.86,
-   "end": 388.689,
-   "dur": 1.829375,
+   "start": 387.788,
+   "end": 389.624,
+   "dur": 1.8354166666666667,
    "file": "assets/voice/long/c6f.wav",
    "style": "n",
    "pause": 0.6
@@ -939,9 +939,9 @@
    "key": "c6g",
    "section": "ch6",
    "text": "Sur ce point, les sondages de ces derniers jours disent tous la même chose.",
-   "start": 389.289,
-   "end": 393.583,
-   "dur": 4.2939791666666665,
+   "start": 390.224,
+   "end": 394.467,
+   "dur": 4.243458333333334,
    "file": "assets/voice/long/c6g.wav",
    "style": "n",
    "pause": 0.34
@@ -950,9 +950,9 @@
    "key": "c6h",
    "section": "ch6",
    "text": "Entre 54 et 57 % des Français soutiennent ou approuvent le mouvement selon Ipsos-BVA et Cluster17.",
-   "start": 393.923,
-   "end": 401.423,
-   "dur": 7.499375,
+   "start": 394.807,
+   "end": 402.839,
+   "dur": 8.031979166666666,
    "file": "assets/voice/long/c6h.wav",
    "style": "n",
    "pause": 0.34
@@ -961,9 +961,9 @@
    "key": "c6i",
    "section": "ch6",
    "text": "Mais une majorité souhaite aussi qu'il s'arrête : 53 % selon Cluster17, 55 % selon Elabe.",
-   "start": 401.763,
-   "end": 409.106,
-   "dur": 7.343729166666667,
+   "start": 403.179,
+   "end": 410.418,
+   "dur": 7.239354166666667,
    "file": "assets/voice/long/c6i.wav",
    "style": "n",
    "pause": 0.8
@@ -972,9 +972,9 @@
    "key": "c6j",
    "section": "ch6",
    "text": "C'est l'espace dans lequel un pouvoir peut attendre.",
-   "start": 409.906,
-   "end": 413.362,
-   "dur": 3.4560416666666667,
+   "start": 411.218,
+   "end": 414.353,
+   "dur": 3.134708333333333,
    "file": "assets/voice/long/c6j.wav",
    "style": "n",
    "pause": 0.34
@@ -983,9 +983,9 @@
    "key": "c6k",
    "section": "ch6",
    "text": "Soutien aux causes, lassitude face aux blocages.",
-   "start": 413.702,
-   "end": 417.07,
-   "dur": 3.367166666666667,
+   "start": 414.693,
+   "end": 417.951,
+   "dur": 3.2578541666666667,
    "file": "assets/voice/long/c6k.wav",
    "style": "n",
    "pause": 0.6
@@ -994,9 +994,9 @@
    "key": "c6l",
    "section": "ch6",
    "text": "L'histoire le confirme.",
-   "start": 417.67,
-   "end": 419.251,
-   "dur": 1.5816458333333334,
+   "start": 418.551,
+   "end": 420.24,
+   "dur": 1.6892708333333333,
    "file": "assets/voice/long/c6l.wav",
    "style": "n",
    "pause": 0.34
@@ -1005,9 +1005,9 @@
    "key": "c6m",
    "section": "ch6",
    "text": "En 2006, le CPE est retiré après deux mois : étudiants, lycéens et tous les syndicats unis, l'opinion massivement contre.",
-   "start": 419.591,
-   "end": 427.604,
-   "dur": 8.012979166666666,
+   "start": 420.58,
+   "end": 428.324,
+   "dur": 7.743479166666667,
    "file": "assets/voice/long/c6m.wav",
    "style": "n",
    "pause": 0.34
@@ -1016,9 +1016,9 @@
    "key": "c6n",
    "section": "ch6",
    "text": "En 2010 et en 2023, les réformes des retraites passent, malgré des millions de manifestants et une intersyndicale unie.",
-   "start": 427.944,
-   "end": 435.989,
-   "dur": 8.044604166666666,
+   "start": 428.664,
+   "end": 436.602,
+   "dur": 7.938291666666666,
    "file": "assets/voice/long/c6n.wav",
    "style": "n",
    "pause": 0.8
@@ -1027,9 +1027,9 @@
    "key": "c6o",
    "section": "ch6",
    "text": "En 2018, les gilets jaunes obtiennent l'annulation d'une hausse de taxe et environ dix milliards d'euros de mesures, en quelques semaines.",
-   "start": 436.789,
-   "end": 444.277,
-   "dur": 7.4878125,
+   "start": 437.402,
+   "end": 445.035,
+   "dur": 7.632916666666667,
    "file": "assets/voice/long/c6o.wav",
    "style": "n",
    "pause": 0.34
@@ -1038,9 +1038,9 @@
    "key": "c6p",
    "section": "ch6",
    "text": "En mai 68, une grève générale arrache les accords de Grenelle… puis le pouvoir gagne largement les élections de juin.",
-   "start": 444.617,
-   "end": 451.553,
-   "dur": 6.936375,
+   "start": 445.375,
+   "end": 452.205,
+   "dur": 6.830583333333333,
    "file": "assets/voice/long/c6p.wav",
    "style": "n",
    "pause": 0.6
@@ -1049,9 +1049,9 @@
    "key": "c6q",
    "section": "ch6",
    "text": "Et à l'automne 2025, c'est la menace d'une censure à l'Assemblée, plus que la rue, qui conduit à suspendre la réforme des retraites.",
-   "start": 452.153,
-   "end": 459.896,
-   "dur": 7.742854166666667,
+   "start": 452.805,
+   "end": 460.566,
+   "dur": 7.7609375,
    "file": "assets/voice/long/c6q.wav",
    "style": "n",
    "pause": 1.0
@@ -1060,9 +1060,9 @@
    "key": "c6r",
    "section": "ch6",
    "text": "La leçon : manifester ne garantit rien.",
-   "start": 460.896,
-   "end": 463.44,
-   "dur": 2.5445416666666665,
+   "start": 461.566,
+   "end": 464.175,
+   "dur": 2.6090833333333334,
    "file": "assets/voice/long/c6r.wav",
    "style": "g",
    "pause": 0.34
@@ -1071,9 +1071,9 @@
    "key": "c6s",
    "section": "ch6",
    "text": "Ce qui fait bouger, c'est quand ne rien faire coûte plus cher que céder.",
-   "start": 463.78,
-   "end": 467.498,
-   "dur": 3.7178125,
+   "start": 464.515,
+   "end": 468.224,
+   "dur": 3.7088125,
    "file": "assets/voice/long/c6s.wav",
    "style": "g",
    "pause": 0.0
@@ -1082,9 +1082,9 @@
    "key": "d7a",
    "section": "d17",
    "text": "Samedi 17 octobre.",
-   "start": 469.498,
-   "end": 471.363,
-   "dur": 1.8643125,
+   "start": 470.224,
+   "end": 472.097,
+   "dur": 1.8728125,
    "file": "assets/voice/long/d7a.wav",
    "style": "n",
    "pause": 0.34
@@ -1093,9 +1093,9 @@
    "key": "d7b",
    "section": "d17",
    "text": "Premier jour des vacances de la Toussaint.",
-   "start": 471.703,
-   "end": 473.658,
-   "dur": 1.9552291666666666,
+   "start": 472.437,
+   "end": 474.41,
+   "dur": 1.9724375,
    "file": "assets/voice/long/d7b.wav",
    "style": "n",
    "pause": 0.6
@@ -1104,9 +1104,9 @@
    "key": "d7c",
    "section": "d17",
    "text": "Ce qui est confirmé : la CGT dit que ses militants seront présents « partout où les conditions sont réunies ».",
-   "start": 474.258,
-   "end": 480.34,
-   "dur": 6.081791666666667,
+   "start": 475.01,
+   "end": 481.02,
+   "dur": 6.010833333333333,
    "file": "assets/voice/long/d7c.wav",
    "style": "n",
    "pause": 0.34
@@ -1115,9 +1115,9 @@
    "key": "d7d",
    "section": "d17",
    "text": "Ce qui est annoncé par les appelants : un rassemblement à Paris à 14 heures… place de la Bastille ou place de la République, selon les appels.",
-   "start": 480.68,
-   "end": 488.603,
-   "dur": 7.923916666666667,
+   "start": 481.36,
+   "end": 489.251,
+   "dur": 7.890729166666667,
    "file": "assets/voice/long/d7d.wav",
    "style": "n",
    "pause": 0.8
@@ -1126,9 +1126,9 @@
    "key": "d7e",
    "section": "d17",
    "text": "Ce qui reste incertain : au 13 octobre au soir, aucune manifestation n'était déclarée à la préfecture de police de Paris, selon Public Sénat.",
-   "start": 489.403,
-   "end": 497.797,
-   "dur": 8.393166666666668,
+   "start": 490.051,
+   "end": 498.686,
+   "dur": 8.634791666666667,
    "file": "assets/voice/long/d7e.wav",
    "style": "n",
    "pause": 0.34
@@ -1137,9 +1137,9 @@
    "key": "d7f",
    "section": "d17",
    "text": "Les organisations lycéennes n'ont pas encore lancé d'appel formel.",
-   "start": 498.137,
-   "end": 502.082,
-   "dur": 3.945854166666667,
+   "start": 499.026,
+   "end": 502.889,
+   "dur": 3.8627291666666665,
    "file": "assets/voice/long/d7f.wav",
    "style": "n",
    "pause": 0.34
@@ -1148,9 +1148,9 @@
    "key": "d7g",
    "section": "d17",
    "text": "La grève des navigants aériens est suspendue.",
-   "start": 502.422,
-   "end": 505.202,
-   "dur": 2.7791041666666665,
+   "start": 503.229,
+   "end": 506.191,
+   "dur": 2.961895833333333,
    "file": "assets/voice/long/d7g.wav",
    "style": "n",
    "pause": 0.8
@@ -1159,9 +1159,9 @@
    "key": "d7h",
    "section": "d17",
    "text": "Personne ne peut sérieusement prédire l'affluence.",
-   "start": 506.002,
-   "end": 509.082,
-   "dur": 3.0799791666666665,
+   "start": 506.991,
+   "end": 510.053,
+   "dur": 3.0624583333333333,
    "file": "assets/voice/long/d7h.wav",
    "style": "n",
    "pause": 0.34
@@ -1170,9 +1170,9 @@
    "key": "d7i",
    "section": "d17",
    "text": "Et deux autres dates comptent déjà : fin octobre, pour les décisions du gouvernement, et le 5 novembre, pour les syndicats.",
-   "start": 509.422,
-   "end": 516.606,
-   "dur": 7.1844166666666665,
+   "start": 510.393,
+   "end": 517.688,
+   "dur": 7.29525,
    "file": "assets/voice/long/d7i.wav",
    "style": "n",
    "pause": 0.0
@@ -1181,9 +1181,9 @@
    "key": "q1",
    "section": "cond",
    "text": "Historiquement, les mouvements qui obtiennent quelque chose cumulent plusieurs conditions.",
-   "start": 519.006,
-   "end": 523.367,
-   "dur": 4.3611875,
+   "start": 520.088,
+   "end": 524.567,
+   "dur": 4.4788125,
    "file": "assets/voice/long/q1.wav",
    "style": "n",
    "pause": 0.34
@@ -1192,9 +1192,9 @@
    "key": "q2",
    "section": "cond",
    "text": "Une mobilisation large, et qui dure.",
-   "start": 523.707,
-   "end": 526.295,
-   "dur": 2.588,
+   "start": 524.907,
+   "end": 527.543,
+   "dur": 2.6356875,
    "file": "assets/voice/long/q2.wav",
    "style": "n",
    "pause": 0.4
@@ -1203,9 +1203,9 @@
    "key": "q3",
    "section": "cond",
    "text": "Des revendications précises, chiffrables.",
-   "start": 526.695,
-   "end": 529.702,
-   "dur": 3.0068333333333332,
+   "start": 527.943,
+   "end": 530.634,
+   "dur": 2.691520833333333,
    "file": "assets/voice/long/q3.wav",
    "style": "n",
    "pause": 0.4
@@ -1214,9 +1214,9 @@
    "key": "q4",
    "section": "cond",
    "text": "Le soutien de l'opinion.",
-   "start": 530.102,
-   "end": 531.525,
-   "dur": 1.4227708333333333,
+   "start": 531.034,
+   "end": 532.409,
+   "dur": 1.3751041666666666,
    "file": "assets/voice/long/q4.wav",
    "style": "n",
    "pause": 0.4
@@ -1225,9 +1225,9 @@
    "key": "q5",
    "section": "cond",
    "text": "Des grèves dans plusieurs secteurs.",
-   "start": 531.925,
-   "end": 534.046,
-   "dur": 2.1209375,
+   "start": 532.809,
+   "end": 535.032,
+   "dur": 2.222958333333333,
    "file": "assets/voice/long/q5.wav",
    "style": "n",
    "pause": 0.4
@@ -1236,9 +1236,9 @@
    "key": "q6",
    "section": "cond",
    "text": "Des syndicats unis.",
-   "start": 534.446,
-   "end": 535.69,
-   "dur": 1.243875,
+   "start": 535.432,
+   "end": 536.629,
+   "dur": 1.1962708333333334,
    "file": "assets/voice/long/q6.wav",
    "style": "n",
    "pause": 0.4
@@ -1247,9 +1247,9 @@
    "key": "q7",
    "section": "cond",
    "text": "Et des relais au Parlement.",
-   "start": 536.09,
-   "end": 537.721,
-   "dur": 1.6312083333333334,
+   "start": 537.029,
+   "end": 538.593,
+   "dur": 1.5642708333333333,
    "file": "assets/voice/long/q7.wav",
    "style": "n",
    "pause": 0.8
@@ -1258,9 +1258,9 @@
    "key": "q8",
    "section": "cond",
    "text": "La violence, elle, n'est pas un accélérateur fiable.",
-   "start": 538.521,
-   "end": 542.449,
-   "dur": 3.92775,
+   "start": 539.393,
+   "end": 543.361,
+   "dur": 3.9684583333333334,
    "file": "assets/voice/long/q8.wav",
    "style": "g",
    "pause": 0.34
@@ -1269,9 +1269,9 @@
    "key": "q9",
    "section": "cond",
    "text": "Elle peut faire baisser le soutien du public, détourner l'attention des revendications, renforcer la ligne sécuritaire du gouvernement et diviser les manifestants.",
-   "start": 542.789,
-   "end": 551.443,
-   "dur": 8.654,
+   "start": 543.701,
+   "end": 552.473,
+   "dur": 8.771770833333333,
    "file": "assets/voice/long/q9.wav",
    "style": "n",
    "pause": 0.6
@@ -1280,9 +1280,9 @@
    "key": "q10",
    "section": "cond",
    "text": "Selon l'Ifop, 78 % des Français jugent « certains lycéens » responsables des débordements.",
-   "start": 552.043,
-   "end": 557.89,
-   "dur": 5.8475,
+   "start": 553.073,
+   "end": 559.24,
+   "dur": 6.167041666666667,
    "file": "assets/voice/long/q10.wav",
    "style": "n",
    "pause": 0.34
@@ -1291,9 +1291,9 @@
    "key": "q11",
    "section": "cond",
    "text": "Autant jugent le gouvernement responsable.",
-   "start": 558.23,
-   "end": 560.668,
-   "dur": 2.4375,
+   "start": 559.58,
+   "end": 562.055,
+   "dur": 2.4746041666666665,
    "file": "assets/voice/long/q11.wav",
    "style": "n",
    "pause": 1.0
@@ -1302,9 +1302,9 @@
    "key": "k1",
    "section": "concl",
    "text": "Une manifestation peut remplir une rue.",
-   "start": 563.868,
-   "end": 566.51,
-   "dur": 2.6420833333333333,
+   "start": 565.255,
+   "end": 567.851,
+   "dur": 2.596604166666667,
    "file": "assets/voice/long/k1.wav",
    "style": "n",
    "pause": 0.4
@@ -1313,9 +1313,9 @@
    "key": "k2",
    "section": "concl",
    "text": "Un blocage peut perturber une journée.",
-   "start": 566.91,
-   "end": 569.36,
-   "dur": 2.4508125,
+   "start": 568.251,
+   "end": 570.676,
+   "dur": 2.4246458333333334,
    "file": "assets/voice/long/k2.wav",
    "style": "n",
    "pause": 0.4
@@ -1324,9 +1324,9 @@
    "key": "k3",
    "section": "concl",
    "text": "Une grève peut ralentir une économie.",
-   "start": 569.76,
-   "end": 572.204,
-   "dur": 2.4438958333333334,
+   "start": 571.076,
+   "end": 573.483,
+   "dur": 2.4072291666666668,
    "file": "assets/voice/long/k3.wav",
    "style": "n",
    "pause": 0.4
@@ -1335,9 +1335,9 @@
    "key": "k4",
    "section": "concl",
    "text": "Mais aucun de ces éléments ne garantit à lui seul une victoire politique.",
-   "start": 572.604,
-   "end": 576.993,
-   "dur": 4.388354166666667,
+   "start": 573.883,
+   "end": 578.196,
+   "dur": 4.312395833333333,
    "file": "assets/voice/long/k4.wav",
    "style": "n",
    "pause": 0.8
@@ -1346,9 +1346,9 @@
    "key": "k5",
    "section": "concl",
    "text": "Ce qui compte réellement, c'est la capacité d'une mobilisation à durer, à conserver le soutien de l'opinion et à créer un coût politique suffisamment important pour que le gouvernement préfère négocier plutôt que continuer à ignorer la contestation.",
-   "start": 577.793,
-   "end": 590.777,
-   "dur": 12.984041666666666,
+   "start": 578.996,
+   "end": 592.111,
+   "dur": 13.11525,
    "file": "assets/voice/long/k5.wav",
    "style": "n",
    "pause": 0.6
@@ -1357,9 +1357,9 @@
    "key": "k6",
    "section": "concl",
    "text": "Le 17 octobre sera donc moins un test du nombre de personnes dans la rue qu'un test du rapport de force.",
-   "start": 591.377,
-   "end": 598.143,
-   "dur": 6.766604166666666,
+   "start": 592.711,
+   "end": 599.418,
+   "dur": 6.707416666666667,
    "file": "assets/voice/long/k6.wav",
    "style": "n",
    "pause": 2.0
@@ -1368,9 +1368,9 @@
    "key": "k7",
    "section": "concl",
    "text": "La vraie question n'est peut-être pas : combien seront-ils ?",
-   "start": 600.143,
-   "end": 603.726,
-   "dur": 3.5830625,
+   "start": 601.418,
+   "end": 604.95,
+   "dur": 3.53125,
    "file": "assets/voice/long/k7.wav",
    "style": "s",
    "pause": 1.0
@@ -1379,9 +1379,9 @@
    "key": "k8",
    "section": "concl",
    "text": "Mais : combien de temps le pouvoir pourra-t-il se permettre de ne pas répondre ?",
-   "start": 604.726,
-   "end": 609.085,
-   "dur": 4.3585625,
+   "start": 605.95,
+   "end": 610.32,
+   "dur": 4.370125,
    "file": "assets/voice/long/k8.wav",
    "style": "s",
    "pause": 0.0
@@ -1392,73 +1392,73 @@
    "id": "intro",
    "start": 14.0,
    "vo_start": 14.0,
-   "end": 29.383479166666667
+   "end": 29.502875
   },
   {
    "id": "title",
-   "start": 30.283479166666666,
-   "vo_start": 30.283479166666666,
-   "end": 38.683479166666665
+   "start": 30.402874999999998,
+   "vo_start": 30.402874999999998,
+   "end": 38.802875
   },
   {
    "id": "ch1",
-   "start": 43.683479166666665,
-   "vo_start": 43.683479166666665,
-   "end": 126.59633333333338
+   "start": 43.802875,
+   "vo_start": 43.802875,
+   "end": 126.57379166666668
   },
   {
    "id": "ch2",
-   "start": 128.99633333333338,
-   "vo_start": 128.99633333333338,
-   "end": 190.5106250000001
+   "start": 128.97379166666667,
+   "vo_start": 128.97379166666667,
+   "end": 190.4764375
   },
   {
    "id": "ch3",
-   "start": 192.9106250000001,
-   "vo_start": 192.9106250000001,
-   "end": 242.19231250000013
+   "start": 192.8764375,
+   "vo_start": 192.8764375,
+   "end": 242.70970833333342
   },
   {
    "id": "ch4",
-   "start": 246.19231250000013,
-   "vo_start": 246.19231250000013,
-   "end": 335.4135208333334
+   "start": 246.70970833333342,
+   "vo_start": 246.70970833333342,
+   "end": 336.00702083333334
   },
   {
    "id": "ch5",
-   "start": 337.6135208333334,
-   "vo_start": 337.6135208333334,
-   "end": 370.7234375
+   "start": 338.20702083333333,
+   "vo_start": 338.20702083333333,
+   "end": 371.5084166666667
   },
   {
    "id": "ch6",
-   "start": 373.12343749999997,
-   "vo_start": 373.12343749999997,
-   "end": 467.49820833333314
+   "start": 373.90841666666665,
+   "vo_start": 373.90841666666665,
+   "end": 468.2243124999999
   },
   {
    "id": "d17",
-   "start": 469.49820833333314,
-   "vo_start": 469.49820833333314,
-   "end": 516.6059791666664
+   "start": 470.2243124999999,
+   "vo_start": 470.2243124999999,
+   "end": 517.6882499999998
   },
   {
    "id": "cond",
-   "start": 519.0059791666664,
-   "vo_start": 519.0059791666664,
-   "end": 561.6675416666662
+   "start": 520.0882499999998,
+   "vo_start": 520.0882499999998,
+   "end": 563.0547499999999
   },
   {
    "id": "concl",
-   "start": 563.8675416666663,
-   "vo_start": 563.8675416666663,
-   "end": 609.0849583333328
+   "start": 565.25475,
+   "vo_start": 565.25475,
+   "end": 610.3196666666664
   }
  ],
  "subs": [
   {
    "start": 14.0,
-   "end": 15.375,
+   "end": 15.415,
    "lines": [
     "Depuis plusieurs semaines,"
    ],
@@ -1466,8 +1466,8 @@
    "hl": null
   },
   {
-   "start": 15.455,
-   "end": 19.286,
+   "start": 15.495,
+   "end": 19.426,
    "lines": [
     "la France voit se multiplier les",
     "blocages et les manifestations."
@@ -1476,8 +1476,8 @@
    "hl": null
   },
   {
-   "start": 19.836,
-   "end": 21.667,
+   "start": 19.976,
+   "end": 21.989,
    "lines": [
     "Mais derrière",
     "les images de cortèges,"
@@ -1486,8 +1486,8 @@
    "hl": null
   },
   {
-   "start": 21.747,
-   "end": 25.252,
+   "start": 22.069,
+   "end": 25.5,
    "lines": [
     "de barrages et d'affrontements,",
     "une question reste essentielle."
@@ -1496,8 +1496,8 @@
    "hl": null
   },
   {
-   "start": 26.501,
-   "end": 29.633,
+   "start": 26.75,
+   "end": 29.753,
    "lines": [
     "Est-ce que tout cela peut",
     "réellement faire bouger l'État ?"
@@ -1506,8 +1506,8 @@
    "hl": null
   },
   {
-   "start": 43.683,
-   "end": 45.121,
+   "start": 43.803,
+   "end": 45.205,
    "lines": [
     "Tout part d'un lycée."
    ],
@@ -1515,8 +1515,8 @@
    "hl": null
   },
   {
-   "start": 45.211,
-   "end": 48.501,
+   "start": 45.295,
+   "end": 48.472,
    "lines": [
     "Saint-Exupéry, à Créteil,",
     "dans le Val-de-Marne."
@@ -1525,8 +1525,8 @@
    "hl": null
   },
   {
-   "start": 48.591,
-   "end": 51.169,
+   "start": 48.562,
+   "end": 51.189,
    "lines": [
     "Mi-septembre, des professeurs",
     "se mettent en grève :"
@@ -1535,8 +1535,8 @@
    "hl": null
   },
   {
-   "start": 51.249,
-   "end": 53.114,
+   "start": 51.269,
+   "end": 53.164,
    "lines": [
     "des postes ne sont",
     "pas pourvus."
@@ -1545,8 +1545,8 @@
    "hl": null
   },
   {
-   "start": 53.664,
-   "end": 55.072,
+   "start": 53.714,
+   "end": 55.156,
    "lines": [
     "Les élèves suivent."
    ],
@@ -1554,8 +1554,8 @@
    "hl": null
   },
   {
-   "start": 55.162,
-   "end": 57.282,
+   "start": 55.245,
+   "end": 57.286,
    "lines": [
     "Quelques poubelles",
     "devant une grille."
@@ -1564,8 +1564,8 @@
    "hl": null
   },
   {
-   "start": 57.372,
-   "end": 60.723,
+   "start": 57.376,
+   "end": 60.639,
    "lines": [
     "Puis une dizaine",
     "de lycées en Île-de-France."
@@ -1574,8 +1574,8 @@
    "hl": null
   },
   {
-   "start": 60.812,
-   "end": 63.37,
+   "start": 60.729,
+   "end": 63.232,
    "lines": [
     "Puis des centaines,",
     "dans tout le pays."
@@ -1584,8 +1584,8 @@
    "hl": null
   },
   {
-   "start": 63.72,
-   "end": 67.436,
+   "start": 63.581,
+   "end": 67.208,
    "lines": [
     "Le 29 septembre,",
     "la fonction publique fait grève."
@@ -1594,8 +1594,8 @@
    "hl": "29 septembre,"
   },
   {
-   "start": 67.526,
-   "end": 71.228,
+   "start": 67.298,
+   "end": 70.805,
    "lines": [
     "Le mouvement lycéen s'y",
     "accroche et change d'échelle."
@@ -1604,8 +1604,8 @@
    "hl": null
   },
   {
-   "start": 71.578,
-   "end": 74.291,
+   "start": 71.155,
+   "end": 73.878,
    "lines": [
     "Le 2 octobre, le ministre",
     "de l'Intérieur annonce"
@@ -1614,8 +1614,8 @@
    "hl": "2 octobre,"
   },
   {
-   "start": 74.371,
-   "end": 78.29,
+   "start": 73.958,
+   "end": 77.891,
    "lines": [
     "1 747 interpellations",
     "en une seule journée."
@@ -1624,8 +1624,8 @@
    "hl": "1 747"
   },
   {
-   "start": 78.84,
-   "end": 81.168,
+   "start": 78.441,
+   "end": 80.666,
    "lines": [
     "Le 6 octobre, c'est le pic."
    ],
@@ -1633,8 +1633,8 @@
    "hl": "6 octobre,"
   },
   {
-   "start": 81.258,
-   "end": 85.943,
+   "start": 80.757,
+   "end": 85.406,
    "lines": [
     "256 000 manifestants selon",
     "le ministère de l'Intérieur."
@@ -1643,8 +1643,8 @@
    "hl": "256 000 manifestants"
   },
   {
-   "start": 86.033,
-   "end": 89.669,
+   "start": 85.495,
+   "end": 89.103,
    "lines": [
     "450 000 selon",
     "les organisateurs."
@@ -1653,8 +1653,8 @@
    "hl": "450 000"
   },
   {
-   "start": 89.759,
-   "end": 92.284,
+   "start": 89.193,
+   "end": 91.688,
    "lines": [
     "Les deux camps ne comptent",
     "pas de la même façon :"
@@ -1663,8 +1663,8 @@
    "hl": null
   },
   {
-   "start": 92.364,
-   "end": 94.729,
+   "start": 91.768,
+   "end": 94.106,
    "lines": [
     "la police compte",
     "par segments sur le parcours,"
@@ -1673,8 +1673,8 @@
    "hl": null
   },
   {
-   "start": 94.809,
-   "end": 98.036,
+   "start": 94.186,
+   "end": 97.38,
    "lines": [
     "les organisateurs extrapolent",
     "à partir de leurs relevés."
@@ -1683,8 +1683,8 @@
    "hl": null
   },
   {
-   "start": 98.126,
-   "end": 101.0,
+   "start": 97.47,
+   "end": 100.473,
    "lines": [
     "La vérité est",
     "probablement entre les deux."
@@ -1693,8 +1693,8 @@
    "hl": null
   },
   {
-   "start": 101.35,
-   "end": 103.976,
+   "start": 100.823,
+   "end": 103.603,
    "lines": [
     "Le 8, la mobilisation retombe."
    ],
@@ -1702,8 +1702,8 @@
    "hl": "Le 8,"
   },
   {
-   "start": 104.066,
-   "end": 105.88,
+   "start": 103.693,
+   "end": 105.537,
    "lines": [
     "Le 13 octobre, elle rebondit :"
    ],
@@ -1711,8 +1711,8 @@
    "hl": "13 octobre,"
   },
   {
-   "start": 105.96,
-   "end": 109.5,
+   "start": 105.617,
+   "end": 109.214,
    "lines": [
     "161 500 personnes",
     "selon l'Intérieur,"
@@ -1721,8 +1721,8 @@
    "hl": "161 500 personnes"
   },
   {
-   "start": 109.58,
-   "end": 113.673,
+   "start": 109.294,
+   "end": 113.448,
    "lines": [
     "480 000 selon",
     "l'intersyndicale de la jeunesse."
@@ -1731,8 +1731,8 @@
    "hl": "480 000"
   },
   {
-   "start": 114.023,
-   "end": 115.201,
+   "start": 113.798,
+   "end": 115.006,
    "lines": [
     "Ce jour-là, le ministère"
    ],
@@ -1740,8 +1740,8 @@
    "hl": null
   },
   {
-   "start": 115.281,
-   "end": 118.335,
+   "start": 115.086,
+   "end": 118.206,
    "lines": [
     "de l'Éducation compte",
     "214 lycées fermés."
@@ -1750,8 +1750,8 @@
    "hl": "214 lycées"
   },
   {
-   "start": 118.415,
-   "end": 120.966,
+   "start": 118.286,
+   "end": 120.995,
    "lines": [
     "Contre environ",
     "800 le 6 octobre."
@@ -1760,8 +1760,8 @@
    "hl": "800"
   },
   {
-   "start": 121.046,
-   "end": 123.295,
+   "start": 121.075,
+   "end": 123.504,
    "lines": [
     "Il parle d'un mouvement",
     "« en recul »."
@@ -1770,8 +1770,8 @@
    "hl": null
   },
   {
-   "start": 123.375,
-   "end": 126.846,
+   "start": 123.584,
+   "end": 126.824,
    "lines": [
     "Les organisateurs, eux, parlent",
     "d'un mouvement installé."
@@ -1780,8 +1780,8 @@
    "hl": null
   },
   {
-   "start": 128.996,
-   "end": 131.697,
+   "start": 128.974,
+   "end": 131.749,
    "lines": [
     "On parle souvent « des jeunes »",
     "comme d'un bloc."
@@ -1790,8 +1790,8 @@
    "hl": null
   },
   {
-   "start": 131.787,
-   "end": 133.041,
+   "start": 131.838,
+   "end": 133.051,
    "lines": [
     "Ce n'est pas le cas."
    ],
@@ -1799,8 +1799,8 @@
    "hl": null
   },
   {
-   "start": 133.392,
-   "end": 135.566,
+   "start": 133.402,
+   "end": 135.388,
    "lines": [
     "Les lycéens demandent",
     "des choses concrètes :"
@@ -1809,8 +1809,8 @@
    "hl": null
   },
   {
-   "start": 135.646,
-   "end": 136.806,
+   "start": 135.468,
+   "end": 136.688,
    "lines": [
     "des professeurs remplacés,"
    ],
@@ -1818,8 +1818,8 @@
    "hl": null
   },
   {
-   "start": 136.886,
-   "end": 139.632,
+   "start": 136.768,
+   "end": 139.518,
    "lines": [
     "des classes moins chargées,",
     "des bâtiments décents."
@@ -1828,8 +1828,8 @@
    "hl": null
   },
   {
-   "start": 139.722,
-   "end": 141.936,
+   "start": 139.608,
+   "end": 141.867,
    "lines": [
     "Certains ajoutent",
     "leurs emplois du temps,"
@@ -1838,8 +1838,8 @@
    "hl": null
   },
   {
-   "start": 142.016,
-   "end": 143.614,
+   "start": 141.947,
+   "end": 143.579,
    "lines": [
     "ou l'interdiction du téléphone"
    ],
@@ -1847,8 +1847,8 @@
    "hl": null
   },
   {
-   "start": 143.694,
-   "end": 146.182,
+   "start": 143.659,
+   "end": 146.191,
    "lines": [
     "portable entrée",
     "en vigueur à la rentrée."
@@ -1857,8 +1857,8 @@
    "hl": null
   },
   {
-   "start": 146.532,
-   "end": 149.387,
+   "start": 146.54,
+   "end": 149.452,
    "lines": [
     "Les étudiants parlent",
     "du budget des universités,"
@@ -1867,8 +1867,8 @@
    "hl": null
   },
   {
-   "start": 149.467,
-   "end": 151.917,
+   "start": 149.532,
+   "end": 152.026,
    "lines": [
     "de Parcoursup,",
     "de repas à un euro."
@@ -1877,8 +1877,8 @@
    "hl": null
   },
   {
-   "start": 152.268,
-   "end": 154.557,
+   "start": 152.376,
+   "end": 153.807,
    "lines": [
     "Les syndicats d'enseignants,"
    ],
@@ -1886,8 +1886,8 @@
    "hl": null
   },
   {
-   "start": 154.637,
-   "end": 156.28,
+   "start": 153.887,
+   "end": 156.187,
    "lines": [
     "eux,",
     "parlent de postes et de salaires."
@@ -1896,8 +1896,8 @@
    "hl": null
   },
   {
-   "start": 156.37,
-   "end": 157.906,
+   "start": 156.276,
+   "end": 157.854,
    "lines": [
     "Et les confédérations ont"
    ],
@@ -1905,8 +1905,8 @@
    "hl": null
   },
   {
-   "start": 157.986,
-   "end": 161.208,
+   "start": 157.934,
+   "end": 161.236,
    "lines": [
     "déjà fixé leur propre date :",
     "le 5 novembre."
@@ -1915,8 +1915,8 @@
    "hl": "5 novembre."
   },
   {
-   "start": 161.758,
-   "end": 164.243,
+   "start": 161.786,
+   "end": 164.364,
    "lines": [
     "Enfin, il y a le 17 octobre."
    ],
@@ -1924,8 +1924,8 @@
    "hl": "17 octobre."
   },
   {
-   "start": 164.333,
-   "end": 166.66,
+   "start": 164.455,
+   "end": 166.736,
    "lines": [
     "Des appels lancés",
     "sur les réseaux sociaux,"
@@ -1934,8 +1934,8 @@
    "hl": null
   },
   {
-   "start": 166.74,
-   "end": 168.385,
+   "start": 166.816,
+   "end": 168.425,
    "lines": [
     "sous la bannière",
     "des gilets jaunes,"
@@ -1944,8 +1944,8 @@
    "hl": null
   },
   {
-   "start": 168.465,
-   "end": 170.163,
+   "start": 168.505,
+   "end": 170.058,
    "lines": [
     "sur le prix des carburants."
    ],
@@ -1953,8 +1953,8 @@
    "hl": null
   },
   {
-   "start": 170.253,
-   "end": 174.081,
+   "start": 170.148,
+   "end": 174.107,
    "lines": [
     "Le gazole dépasse",
     "alors 2,35 euros le litre."
@@ -1963,8 +1963,8 @@
    "hl": "2,35 euros"
   },
   {
-   "start": 174.631,
-   "end": 176.54,
+   "start": 174.657,
+   "end": 176.587,
    "lines": [
     "Ce n'est pas",
     "le même mouvement."
@@ -1973,8 +1973,8 @@
    "hl": null
   },
   {
-   "start": 176.63,
-   "end": 178.749,
+   "start": 176.677,
+   "end": 178.738,
    "lines": [
     "Certains veulent",
     "qu'il le devienne."
@@ -1983,8 +1983,8 @@
    "hl": null
   },
   {
-   "start": 179.099,
-   "end": 182.847,
+   "start": 179.088,
+   "end": 182.772,
    "lines": [
     "Des revendications différentes,",
     "des calendriers différents."
@@ -1993,8 +1993,8 @@
    "hl": null
   },
   {
-   "start": 182.937,
-   "end": 186.064,
+   "start": 182.862,
+   "end": 186.13,
    "lines": [
     "C'est une force,",
     "parce que ça élargit la base."
@@ -2003,8 +2003,8 @@
    "hl": null
   },
   {
-   "start": 186.154,
-   "end": 189.761,
+   "start": 186.22,
+   "end": 189.726,
    "lines": [
     "Et une faiblesse, parce que ça",
     "complique la négociation."
@@ -2013,8 +2013,8 @@
    "hl": null
   },
   {
-   "start": 192.911,
-   "end": 195.55,
+   "start": 192.876,
+   "end": 195.705,
    "lines": [
     "Un blocage, c'est quoi,",
     "concrètement ?"
@@ -2023,8 +2023,8 @@
    "hl": null
   },
   {
-   "start": 195.639,
-   "end": 199.012,
+   "start": 195.796,
+   "end": 199.35,
    "lines": [
     "Des poubelles devant une grille,",
     "parfois des barrières."
@@ -2033,8 +2033,8 @@
    "hl": null
   },
   {
-   "start": 199.102,
-   "end": 202.854,
+   "start": 199.44,
+   "end": 203.066,
    "lines": [
     "L'objectif : empêcher les cours,",
     "donc être visible."
@@ -2043,8 +2043,8 @@
    "hl": null
   },
   {
-   "start": 202.945,
-   "end": 204.324,
+   "start": 203.156,
+   "end": 204.681,
    "lines": [
     "Et c'est très visible."
    ],
@@ -2052,8 +2052,8 @@
    "hl": null
   },
   {
-   "start": 204.413,
-   "end": 207.156,
+   "start": 204.771,
+   "end": 207.426,
    "lines": [
     "Pour les élèves, pour les",
     "parents, pour les caméras."
@@ -2062,8 +2062,8 @@
    "hl": null
   },
   {
-   "start": 207.706,
-   "end": 210.016,
+   "start": 207.976,
+   "end": 210.235,
    "lines": [
     "Mais il faut distinguer",
     "deux échelles."
@@ -2072,8 +2072,8 @@
    "hl": null
   },
   {
-   "start": 210.106,
-   "end": 212.983,
+   "start": 210.325,
+   "end": 213.214,
    "lines": [
     "Localement, un lycée bloqué,",
     "c'est une journée perdue,"
@@ -2082,8 +2082,8 @@
    "hl": null
   },
   {
-   "start": 213.063,
-   "end": 216.106,
+   "start": 213.294,
+   "end": 216.348,
    "lines": [
     "des familles inquiètes,",
     "un proviseur sous pression."
@@ -2092,8 +2092,8 @@
    "hl": null
   },
   {
-   "start": 216.456,
-   "end": 219.726,
+   "start": 216.698,
+   "end": 220.05,
    "lines": [
     "Nationalement, la pression",
     "est d'une autre nature."
@@ -2102,8 +2102,8 @@
    "hl": null
   },
   {
-   "start": 219.816,
-   "end": 223.321,
+   "start": 220.139,
+   "end": 223.769,
    "lines": [
     "Un lycée fermé ne coûte rien",
     "de mesurable à l'économie."
@@ -2112,8 +2112,8 @@
    "hl": null
   },
   {
-   "start": 223.411,
-   "end": 227.502,
+   "start": 223.86,
+   "end": 228.058,
    "lines": [
     "Il ne bloque ni une raffinerie,",
     "ni un port, ni le réseau de trains."
@@ -2122,8 +2122,8 @@
    "hl": null
   },
   {
-   "start": 228.052,
-   "end": 230.592,
+   "start": 228.608,
+   "end": 231.303,
    "lines": [
     "Ce qui pèse sur l'État,",
     "c'est autre chose :"
@@ -2132,8 +2132,8 @@
    "hl": null
   },
   {
-   "start": 230.672,
-   "end": 233.663,
+   "start": 231.383,
+   "end": 234.538,
    "lines": [
     "la répétition, l'image,",
     "et surtout le risque."
@@ -2142,8 +2142,8 @@
    "hl": null
   },
   {
-   "start": 233.754,
-   "end": 236.759,
+   "start": 234.628,
+   "end": 237.334,
    "lines": [
     "Le risque qu'un mineur",
     "soit gravement blessé."
@@ -2152,8 +2152,8 @@
    "hl": null
   },
   {
-   "start": 236.848,
-   "end": 239.057,
+   "start": 237.423,
+   "end": 239.626,
    "lines": [
     "Le risque",
     "que les parents basculent."
@@ -2162,8 +2162,8 @@
    "hl": null
   },
   {
-   "start": 239.147,
-   "end": 242.442,
+   "start": 239.716,
+   "end": 242.959,
    "lines": [
     "Le risque que d'autres secteurs",
     "rejoignent le mouvement."
@@ -2172,8 +2172,8 @@
    "hl": null
   },
   {
-   "start": 246.192,
-   "end": 249.282,
+   "start": 246.71,
+   "end": 249.845,
    "lines": [
     "C'est la partie la plus",
     "difficile à raconter."
@@ -2182,8 +2182,8 @@
    "hl": null
   },
   {
-   "start": 249.373,
-   "end": 251.316,
+   "start": 249.935,
+   "end": 251.9,
    "lines": [
     "Il faut donc être précis."
    ],
@@ -2191,8 +2191,8 @@
    "hl": null
   },
   {
-   "start": 251.666,
-   "end": 255.872,
+   "start": 252.25,
+   "end": 257.114,
    "lines": [
     "Selon le ministère de la Justice,",
     "6 877 personnes"
@@ -2201,8 +2201,8 @@
    "hl": "6 877 personnes"
   },
   {
-   "start": 255.952,
-   "end": 259.786,
+   "start": 257.194,
+   "end": 260.313,
    "lines": [
     "ont été placées en garde",
     "à vue au 8 octobre."
@@ -2211,8 +2211,8 @@
    "hl": "8 octobre."
   },
   {
-   "start": 259.876,
-   "end": 262.39,
+   "start": 260.402,
+   "end": 262.947,
    "lines": [
     "86 % sont mineures."
    ],
@@ -2220,8 +2220,8 @@
    "hl": "86 %"
   },
   {
-   "start": 262.48,
-   "end": 263.955,
+   "start": 263.038,
+   "end": 264.508,
    "lines": [
     "Un chiffre sans précédent"
    ],
@@ -2229,8 +2229,8 @@
    "hl": null
   },
   {
-   "start": 264.035,
-   "end": 266.276,
+   "start": 264.588,
+   "end": 266.822,
    "lines": [
     "récent",
     "pour un mouvement social."
@@ -2239,8 +2239,8 @@
    "hl": null
   },
   {
-   "start": 266.626,
-   "end": 270.755,
+   "start": 267.172,
+   "end": 271.344,
    "lines": [
     "Selon Matignon, au 6 octobre,",
     "715 policiers et gendarmes,"
@@ -2249,8 +2249,8 @@
    "hl": "6 octobre,"
   },
   {
-   "start": 270.835,
-   "end": 276.113,
+   "start": 271.424,
+   "end": 276.753,
    "lines": [
     "215 élèves et 85 personnels",
     "éducatifs avaient été blessés."
@@ -2259,8 +2259,8 @@
    "hl": "215 élèves"
   },
   {
-   "start": 276.663,
-   "end": 278.238,
+   "start": 277.303,
+   "end": 278.985,
    "lines": [
     "Certains cas sont graves."
    ],
@@ -2268,8 +2268,8 @@
    "hl": null
   },
   {
-   "start": 278.328,
-   "end": 280.291,
+   "start": 279.075,
+   "end": 281.06,
    "lines": [
     "À Lens, un lycéen de 15 ans"
    ],
@@ -2277,8 +2277,8 @@
    "hl": "15 ans"
   },
   {
-   "start": 280.371,
-   "end": 283.048,
+   "start": 281.14,
+   "end": 283.841,
    "lines": [
     "a eu la main arrachée",
     "par une grenade."
@@ -2287,8 +2287,8 @@
    "hl": null
   },
   {
-   "start": 283.138,
-   "end": 286.998,
+   "start": 283.932,
+   "end": 287.784,
    "lines": [
     "Près de Pontoise, un garçon",
     "de 14 ans a la mâchoire brisée."
@@ -2297,8 +2297,8 @@
    "hl": "14 ans"
   },
   {
-   "start": 287.088,
-   "end": 291.108,
+   "start": 287.874,
+   "end": 291.903,
    "lines": [
     "Des jeunes ont été touchés",
     "à l'œil, à Argenteuil et à Tours."
@@ -2307,8 +2307,8 @@
    "hl": null
   },
   {
-   "start": 291.198,
-   "end": 295.759,
+   "start": 291.993,
+   "end": 296.404,
    "lines": [
     "Selon France Bleu, 36 enquêtes",
     "ont été confiées à l'IGPN."
@@ -2317,8 +2317,8 @@
    "hl": "36 enquêtes"
   },
   {
-   "start": 296.309,
-   "end": 299.417,
+   "start": 296.954,
+   "end": 300.197,
    "lines": [
     "Une enquête ouverte",
     "n'est pas une faute établie."
@@ -2327,8 +2327,8 @@
    "hl": null
   },
   {
-   "start": 299.507,
-   "end": 301.623,
+   "start": 300.287,
+   "end": 302.689,
    "lines": [
     "C'est à la justice de le dire."
    ],
@@ -2336,8 +2336,8 @@
    "hl": null
   },
   {
-   "start": 301.973,
-   "end": 303.751,
+   "start": 303.039,
+   "end": 304.83,
    "lines": [
     "Le ministre de l'Intérieur rejette"
    ],
@@ -2345,8 +2345,8 @@
    "hl": null
   },
   {
-   "start": 303.831,
-   "end": 306.322,
+   "start": 304.91,
+   "end": 307.417,
    "lines": [
     "le terme de répression",
     "« disproportionnée »."
@@ -2355,8 +2355,8 @@
    "hl": null
   },
   {
-   "start": 306.412,
-   "end": 308.695,
+   "start": 307.507,
+   "end": 309.767,
    "lines": [
     "Il a pourtant suspendu",
     "l'usage des grenades"
@@ -2365,8 +2365,8 @@
    "hl": null
   },
   {
-   "start": 308.775,
-   "end": 310.893,
+   "start": 309.847,
+   "end": 311.947,
    "lines": [
     "assourdissantes",
     "pour ce mouvement."
@@ -2375,8 +2375,8 @@
    "hl": null
   },
   {
-   "start": 310.982,
-   "end": 312.626,
+   "start": 312.037,
+   "end": 313.651,
    "lines": [
     "Le Syndicat de la magistrature,"
    ],
@@ -2384,8 +2384,8 @@
    "hl": null
   },
   {
-   "start": 312.706,
-   "end": 315.739,
+   "start": 313.731,
+   "end": 316.711,
    "lines": [
     "la Ligue des droits de l'Homme",
     "et des avocats dénoncent,"
@@ -2394,8 +2394,8 @@
    "hl": null
   },
   {
-   "start": 315.819,
-   "end": 318.126,
+   "start": 316.791,
+   "end": 319.063,
    "lines": [
     "eux,",
     "des interpellations préventives."
@@ -2404,8 +2404,8 @@
    "hl": null
   },
   {
-   "start": 318.676,
-   "end": 320.106,
+   "start": 319.612,
+   "end": 320.915,
    "lines": [
     "Il y a aussi les violences"
    ],
@@ -2413,8 +2413,8 @@
    "hl": null
   },
   {
-   "start": 320.186,
-   "end": 322.236,
+   "start": 320.995,
+   "end": 322.894,
    "lines": [
     "commises en marge",
     "des cortèges."
@@ -2423,8 +2423,8 @@
    "hl": null
   },
   {
-   "start": 322.326,
-   "end": 324.23,
+   "start": 322.985,
+   "end": 324.919,
    "lines": [
     "Selon le ministre de l'Éducation,"
    ],
@@ -2432,8 +2432,8 @@
    "hl": null
   },
   {
-   "start": 324.31,
-   "end": 327.236,
+   "start": 324.999,
+   "end": 327.971,
    "lines": [
     "24 lycées ont été",
     "incendiés ou saccagés,"
@@ -2442,8 +2442,8 @@
    "hl": "24 lycées"
   },
   {
-   "start": 327.316,
-   "end": 331.234,
+   "start": 328.051,
+   "end": 332.024,
    "lines": [
     "et environ 30 000 élèves",
     "privés de cours en présentiel."
@@ -2452,8 +2452,8 @@
    "hl": "30 000 élèves"
   },
   {
-   "start": 331.584,
-   "end": 333.49,
+   "start": 332.374,
+   "end": 334.263,
    "lines": [
     "Deux réalités documentées."
    ],
@@ -2461,8 +2461,8 @@
    "hl": null
   },
   {
-   "start": 333.579,
-   "end": 335.663,
+   "start": 334.353,
+   "end": 336.257,
    "lines": [
     "Aucune n'efface l'autre."
    ],
@@ -2470,8 +2470,8 @@
    "hl": null
   },
   {
-   "start": 337.614,
-   "end": 339.073,
+   "start": 338.207,
+   "end": 339.643,
    "lines": [
     "En Île-de-France, la région"
    ],
@@ -2479,8 +2479,8 @@
    "hl": null
   },
   {
-   "start": 339.153,
-   "end": 342.596,
+   "start": 339.723,
+   "end": 343.118,
    "lines": [
     "chiffre les dégâts",
     "à 8,5 millions d'euros."
@@ -2489,8 +2489,8 @@
    "hl": "8,5 millions"
   },
   {
-   "start": 342.686,
-   "end": 343.911,
+   "start": 343.208,
+   "end": 344.409,
    "lines": [
     "En Auvergne-Rhône-Alpes,"
    ],
@@ -2498,8 +2498,8 @@
    "hl": null
   },
   {
-   "start": 343.991,
-   "end": 347.118,
+   "start": 344.489,
+   "end": 347.668,
    "lines": [
     "le président de région",
     "avance 25 à 30 millions,"
@@ -2508,8 +2508,8 @@
    "hl": "25"
   },
   {
-   "start": 347.198,
-   "end": 348.97,
+   "start": 347.748,
+   "end": 349.545,
    "lines": [
     "abords et véhicules compris."
    ],
@@ -2517,8 +2517,8 @@
    "hl": null
   },
   {
-   "start": 349.32,
-   "end": 352.445,
+   "start": 349.895,
+   "end": 353.078,
    "lines": [
     "Un chiffre national",
     "de 30 millions circule."
@@ -2527,8 +2527,8 @@
    "hl": "30 millions"
   },
   {
-   "start": 352.535,
-   "end": 356.487,
+   "start": 353.167,
+   "end": 357.249,
    "lines": [
     "Mais les estimations régionales,",
     "additionnées, le dépassent déjà."
@@ -2537,8 +2537,8 @@
    "hl": null
   },
   {
-   "start": 357.437,
-   "end": 361.607,
+   "start": 358.199,
+   "end": 362.335,
    "lines": [
     "Aucun coût total fiable n'est",
     "actuellement disponible."
@@ -2547,8 +2547,8 @@
    "hl": null
   },
   {
-   "start": 362.357,
-   "end": 365.391,
+   "start": 363.085,
+   "end": 366.197,
    "lines": [
     "Le gouvernement, lui,",
     "a chiffré sa première réponse :"
@@ -2557,8 +2557,8 @@
    "hl": null
   },
   {
-   "start": 365.471,
-   "end": 366.799,
+   "start": 366.277,
+   "end": 367.853,
    "lines": [
     "3 000 professeurs remplaçants,"
    ],
@@ -2566,8 +2566,8 @@
    "hl": "3 000 professeurs"
   },
   {
-   "start": 366.879,
-   "end": 369.974,
+   "start": 367.933,
+   "end": 370.759,
    "lines": [
     "pour « plusieurs dizaines de",
     "millions d'euros » cette année."
@@ -2576,8 +2576,8 @@
    "hl": null
   },
   {
-   "start": 373.123,
-   "end": 375.28,
+   "start": 373.908,
+   "end": 376.108,
    "lines": [
     "Un gouvernement",
     "ne réagit pas simplement"
@@ -2586,8 +2586,8 @@
    "hl": null
   },
   {
-   "start": 375.36,
-   "end": 377.567,
+   "start": 376.188,
+   "end": 378.434,
    "lines": [
     "au nombre",
     "de personnes dans la rue."
@@ -2596,8 +2596,8 @@
    "hl": null
   },
   {
-   "start": 377.658,
-   "end": 379.399,
+   "start": 378.524,
+   "end": 380.259,
    "lines": [
     "Il fait un calcul."
    ],
@@ -2605,8 +2605,8 @@
    "hl": null
   },
   {
-   "start": 379.949,
-   "end": 381.772,
+   "start": 380.809,
+   "end": 382.482,
    "lines": [
     "Combien de temps ça va durer ?"
    ],
@@ -2614,8 +2614,8 @@
    "hl": null
   },
   {
-   "start": 381.972,
-   "end": 384.538,
+   "start": 382.682,
+   "end": 385.451,
    "lines": [
     "Qui est en grève,",
     "et dans quels secteurs ?"
@@ -2624,8 +2624,8 @@
    "hl": null
   },
   {
-   "start": 384.737,
-   "end": 386.659,
+   "start": 385.651,
+   "end": 387.588,
    "lines": [
     "Combien ça coûte",
     "à l'économie ?"
@@ -2634,8 +2634,8 @@
    "hl": null
   },
   {
-   "start": 386.86,
-   "end": 388.939,
+   "start": 387.788,
+   "end": 389.873,
    "lines": [
     "Et surtout :",
     "que pense l'opinion ?"
@@ -2644,8 +2644,8 @@
    "hl": null
   },
   {
-   "start": 389.289,
-   "end": 391.124,
+   "start": 390.224,
+   "end": 392.036,
    "lines": [
     "Sur ce point,",
     "les sondages de ces"
@@ -2654,8 +2654,8 @@
    "hl": null
   },
   {
-   "start": 391.204,
-   "end": 393.833,
+   "start": 392.116,
+   "end": 394.717,
    "lines": [
     "derniers jours disent",
     "tous la même chose."
@@ -2664,8 +2664,8 @@
    "hl": null
   },
   {
-   "start": 393.923,
-   "end": 398.478,
+   "start": 394.807,
+   "end": 399.59,
    "lines": [
     "Entre 54 et 57 % des Français",
     "soutiennent ou approuvent"
@@ -2674,8 +2674,8 @@
    "hl": "54"
   },
   {
-   "start": 398.558,
-   "end": 401.672,
+   "start": 399.67,
+   "end": 403.089,
    "lines": [
     "le mouvement selon",
     "Ipsos-BVA et Cluster17."
@@ -2684,8 +2684,8 @@
    "hl": "Cluster17."
   },
   {
-   "start": 401.763,
-   "end": 404.062,
+   "start": 403.179,
+   "end": 405.669,
    "lines": [
     "Mais une majorité souhaite",
     "aussi qu'il s'arrête :"
@@ -2694,8 +2694,8 @@
    "hl": null
   },
   {
-   "start": 404.142,
-   "end": 409.357,
+   "start": 405.749,
+   "end": 410.668,
    "lines": [
     "53 % selon Cluster17,",
     "55 % selon Elabe."
@@ -2704,8 +2704,8 @@
    "hl": "53 %"
   },
   {
-   "start": 409.906,
-   "end": 413.612,
+   "start": 411.218,
+   "end": 414.603,
    "lines": [
     "C'est l'espace dans lequel",
     "un pouvoir peut attendre."
@@ -2714,8 +2714,8 @@
    "hl": null
   },
   {
-   "start": 413.702,
-   "end": 417.319,
+   "start": 414.693,
+   "end": 418.201,
    "lines": [
     "Soutien aux causes,",
     "lassitude face aux blocages."
@@ -2724,8 +2724,8 @@
    "hl": null
   },
   {
-   "start": 417.67,
-   "end": 419.502,
+   "start": 418.551,
+   "end": 420.49,
    "lines": [
     "L'histoire le confirme."
    ],
@@ -2733,8 +2733,8 @@
    "hl": null
   },
   {
-   "start": 419.591,
-   "end": 423.072,
+   "start": 420.58,
+   "end": 423.942,
    "lines": [
     "En 2006, le CPE est",
     "retiré après deux mois :"
@@ -2743,8 +2743,8 @@
    "hl": "2006,"
   },
   {
-   "start": 423.152,
-   "end": 425.803,
+   "start": 424.022,
+   "end": 426.58,
    "lines": [
     "étudiants, lycéens",
     "et tous les syndicats unis,"
@@ -2753,8 +2753,8 @@
    "hl": null
   },
   {
-   "start": 425.883,
-   "end": 427.854,
+   "start": 426.66,
+   "end": 428.573,
    "lines": [
     "l'opinion massivement contre."
    ],
@@ -2762,8 +2762,8 @@
    "hl": null
   },
   {
-   "start": 427.944,
-   "end": 430.472,
+   "start": 428.664,
+   "end": 431.157,
    "lines": [
     "En 2010 et en 2023,"
    ],
@@ -2771,8 +2771,8 @@
    "hl": "2010"
   },
   {
-   "start": 430.552,
-   "end": 433.523,
+   "start": 431.237,
+   "end": 434.168,
    "lines": [
     "les réformes des retraites",
     "passent, malgré des millions"
@@ -2781,8 +2781,8 @@
    "hl": null
   },
   {
-   "start": 433.603,
-   "end": 436.239,
+   "start": 434.248,
+   "end": 436.852,
    "lines": [
     "de manifestants",
     "et une intersyndicale unie."
@@ -2791,8 +2791,8 @@
    "hl": null
   },
   {
-   "start": 436.789,
-   "end": 440.23,
+   "start": 437.402,
+   "end": 441.472,
    "lines": [
     "En 2018, les gilets jaunes",
     "obtiennent l'annulation d'une"
@@ -2801,8 +2801,8 @@
    "hl": "2018,"
   },
   {
-   "start": 440.31,
-   "end": 443.155,
+   "start": 441.552,
+   "end": 444.041,
    "lines": [
     "hausse de taxe et environ dix",
     "milliards d'euros de mesures,"
@@ -2811,8 +2811,8 @@
    "hl": null
   },
   {
-   "start": 443.235,
-   "end": 444.527,
+   "start": 444.121,
+   "end": 445.285,
    "lines": [
     "en quelques semaines."
    ],
@@ -2820,8 +2820,8 @@
    "hl": null
   },
   {
-   "start": 444.617,
-   "end": 445.751,
+   "start": 445.375,
+   "end": 446.976,
    "lines": [
     "En mai 68, une grève"
    ],
@@ -2829,8 +2829,8 @@
    "hl": "68,"
   },
   {
-   "start": 445.831,
-   "end": 448.501,
+   "start": 447.056,
+   "end": 449.198,
    "lines": [
     "générale arrache",
     "les accords de Grenelle…"
@@ -2839,8 +2839,8 @@
    "hl": null
   },
   {
-   "start": 448.581,
-   "end": 451.803,
+   "start": 449.278,
+   "end": 452.456,
    "lines": [
     "puis le pouvoir gagne",
     "largement les élections de juin."
@@ -2849,8 +2849,8 @@
    "hl": null
   },
   {
-   "start": 452.153,
-   "end": 454.138,
+   "start": 452.805,
+   "end": 454.631,
    "lines": [
     "Et à l'automne 2025,"
    ],
@@ -2858,8 +2858,8 @@
    "hl": "2025,"
   },
   {
-   "start": 454.218,
-   "end": 457.235,
+   "start": 454.711,
+   "end": 457.878,
    "lines": [
     "c'est la menace d'une censure",
     "à l'Assemblée, plus que la rue,"
@@ -2868,8 +2868,8 @@
    "hl": null
   },
   {
-   "start": 457.315,
-   "end": 460.146,
+   "start": 457.958,
+   "end": 460.816,
    "lines": [
     "qui conduit à suspendre",
     "la réforme des retraites."
@@ -2878,8 +2878,8 @@
    "hl": null
   },
   {
-   "start": 460.896,
-   "end": 463.691,
+   "start": 461.566,
+   "end": 464.425,
    "lines": [
     "La leçon :",
     "manifester ne garantit rien."
@@ -2888,8 +2888,8 @@
    "hl": null
   },
   {
-   "start": 463.78,
-   "end": 464.695,
+   "start": 464.515,
+   "end": 465.427,
    "lines": [
     "Ce qui fait bouger,"
    ],
@@ -2897,8 +2897,8 @@
    "hl": null
   },
   {
-   "start": 464.775,
-   "end": 467.748,
+   "start": 465.507,
+   "end": 468.474,
    "lines": [
     "c'est quand ne rien faire",
     "coûte plus cher que céder."
@@ -2907,8 +2907,8 @@
    "hl": null
   },
   {
-   "start": 469.498,
-   "end": 471.612,
+   "start": 470.224,
+   "end": 472.347,
    "lines": [
     "Samedi 17 octobre."
    ],
@@ -2916,8 +2916,8 @@
    "hl": "17 octobre."
   },
   {
-   "start": 471.703,
-   "end": 473.908,
+   "start": 472.437,
+   "end": 474.659,
    "lines": [
     "Premier jour des vacances",
     "de la Toussaint."
@@ -2926,8 +2926,8 @@
    "hl": null
   },
   {
-   "start": 474.258,
-   "end": 477.192,
+   "start": 475.01,
+   "end": 477.908,
    "lines": [
     "Ce qui est confirmé :",
     "la CGT dit que ses militants"
@@ -2936,8 +2936,8 @@
    "hl": null
   },
   {
-   "start": 477.272,
-   "end": 480.59,
+   "start": 477.988,
+   "end": 481.271,
    "lines": [
     "seront présents « partout où",
     "les conditions sont réunies »."
@@ -2946,8 +2946,8 @@
    "hl": null
   },
   {
-   "start": 480.68,
-   "end": 482.662,
+   "start": 481.36,
+   "end": 483.334,
    "lines": [
     "Ce qui est annoncé",
     "par les appelants :"
@@ -2956,8 +2956,8 @@
    "hl": null
   },
   {
-   "start": 482.742,
-   "end": 484.996,
+   "start": 483.414,
+   "end": 485.658,
    "lines": [
     "un rassemblement",
     "à Paris à 14 heures…"
@@ -2966,8 +2966,8 @@
    "hl": "14 heures…"
   },
   {
-   "start": 485.076,
-   "end": 488.854,
+   "start": 485.738,
+   "end": 489.501,
    "lines": [
     "place de la Bastille ou place de",
     "la République, selon les appels."
@@ -2976,8 +2976,8 @@
    "hl": null
   },
   {
-   "start": 489.403,
-   "end": 492.316,
+   "start": 490.051,
+   "end": 493.051,
    "lines": [
     "Ce qui reste incertain :",
     "au 13 octobre au soir,"
@@ -2986,8 +2986,8 @@
    "hl": "13 octobre"
   },
   {
-   "start": 492.396,
-   "end": 495.427,
+   "start": 493.131,
+   "end": 496.251,
    "lines": [
     "aucune manifestation n'était",
     "déclarée à la préfecture"
@@ -2996,8 +2996,8 @@
    "hl": null
   },
   {
-   "start": 495.507,
-   "end": 498.046,
+   "start": 496.331,
+   "end": 498.936,
    "lines": [
     "de police de Paris,",
     "selon Public Sénat."
@@ -3006,8 +3006,8 @@
    "hl": null
   },
   {
-   "start": 498.137,
-   "end": 499.696,
+   "start": 499.026,
+   "end": 500.551,
    "lines": [
     "Les organisations lycéennes"
    ],
@@ -3015,8 +3015,8 @@
    "hl": null
   },
   {
-   "start": 499.776,
-   "end": 502.333,
+   "start": 500.631,
+   "end": 503.139,
    "lines": [
     "n'ont pas encore",
     "lancé d'appel formel."
@@ -3025,8 +3025,8 @@
    "hl": null
   },
   {
-   "start": 502.422,
-   "end": 505.451,
+   "start": 503.229,
+   "end": 506.441,
    "lines": [
     "La grève des navigants",
     "aériens est suspendue."
@@ -3035,8 +3035,8 @@
    "hl": null
   },
   {
-   "start": 506.002,
-   "end": 509.332,
+   "start": 506.991,
+   "end": 510.303,
    "lines": [
     "Personne ne peut sérieusement",
     "prédire l'affluence."
@@ -3045,8 +3045,8 @@
    "hl": null
   },
   {
-   "start": 509.422,
-   "end": 511.428,
+   "start": 510.393,
+   "end": 512.431,
    "lines": [
     "Et deux autres dates",
     "comptent déjà :"
@@ -3055,8 +3055,8 @@
    "hl": null
   },
   {
-   "start": 511.508,
-   "end": 514.209,
+   "start": 512.511,
+   "end": 515.255,
    "lines": [
     "fin octobre, pour les décisions",
     "du gouvernement,"
@@ -3065,8 +3065,8 @@
    "hl": null
   },
   {
-   "start": 514.289,
-   "end": 516.856,
+   "start": 515.335,
+   "end": 517.938,
    "lines": [
     "et le 5 novembre,",
     "pour les syndicats."
@@ -3075,8 +3075,8 @@
    "hl": "5 novembre,"
   },
   {
-   "start": 519.006,
-   "end": 521.131,
+   "start": 520.088,
+   "end": 522.273,
    "lines": [
     "Historiquement,",
     "les mouvements qui obtiennent"
@@ -3085,8 +3085,8 @@
    "hl": null
   },
   {
-   "start": 521.211,
-   "end": 523.617,
+   "start": 522.353,
+   "end": 524.817,
    "lines": [
     "quelque chose cumulent",
     "plusieurs conditions."
@@ -3095,8 +3095,8 @@
    "hl": null
   },
   {
-   "start": 523.707,
-   "end": 526.545,
+   "start": 524.907,
+   "end": 527.793,
    "lines": [
     "Une mobilisation large,",
     "et qui dure."
@@ -3105,8 +3105,8 @@
    "hl": null
   },
   {
-   "start": 526.695,
-   "end": 529.952,
+   "start": 527.943,
+   "end": 530.885,
    "lines": [
     "Des revendications",
     "précises, chiffrables."
@@ -3115,8 +3115,8 @@
    "hl": null
   },
   {
-   "start": 530.102,
-   "end": 531.775,
+   "start": 531.034,
+   "end": 532.659,
    "lines": [
     "Le soutien de l'opinion."
    ],
@@ -3124,8 +3124,8 @@
    "hl": null
   },
   {
-   "start": 531.925,
-   "end": 534.296,
+   "start": 532.809,
+   "end": 535.282,
    "lines": [
     "Des grèves",
     "dans plusieurs secteurs."
@@ -3134,8 +3134,8 @@
    "hl": null
   },
   {
-   "start": 534.446,
-   "end": 535.94,
+   "start": 535.432,
+   "end": 536.878,
    "lines": [
     "Des syndicats unis."
    ],
@@ -3143,8 +3143,8 @@
    "hl": null
   },
   {
-   "start": 536.09,
-   "end": 537.971,
+   "start": 537.029,
+   "end": 538.843,
    "lines": [
     "Et des relais au Parlement."
    ],
@@ -3152,8 +3152,8 @@
    "hl": null
   },
   {
-   "start": 538.521,
-   "end": 542.699,
+   "start": 539.393,
+   "end": 543.611,
    "lines": [
     "La violence, elle,",
     "n'est pas un accélérateur fiable."
@@ -3162,8 +3162,8 @@
    "hl": null
   },
   {
-   "start": 542.789,
-   "end": 544.842,
+   "start": 543.701,
+   "end": 546.088,
    "lines": [
     "Elle peut faire baisser",
     "le soutien du public,"
@@ -3172,8 +3172,8 @@
    "hl": null
   },
   {
-   "start": 544.922,
-   "end": 547.361,
+   "start": 546.168,
+   "end": 548.336,
    "lines": [
     "détourner l'attention",
     "des revendications,"
@@ -3182,8 +3182,8 @@
    "hl": null
   },
   {
-   "start": 547.441,
-   "end": 548.983,
+   "start": 548.416,
+   "end": 549.981,
    "lines": [
     "renforcer la ligne sécuritaire"
    ],
@@ -3191,8 +3191,8 @@
    "hl": null
   },
   {
-   "start": 549.063,
-   "end": 551.693,
+   "start": 550.061,
+   "end": 552.723,
    "lines": [
     "du gouvernement",
     "et diviser les manifestants."
@@ -3201,8 +3201,8 @@
    "hl": null
   },
   {
-   "start": 552.043,
-   "end": 556.186,
+   "start": 553.073,
+   "end": 557.447,
    "lines": [
     "Selon l'Ifop, 78 % des Français",
     "jugent « certains lycéens »"
@@ -3211,8 +3211,8 @@
    "hl": "78 %"
   },
   {
-   "start": 556.266,
-   "end": 558.14,
+   "start": 557.527,
+   "end": 559.49,
    "lines": [
     "responsables",
     "des débordements."
@@ -3221,8 +3221,8 @@
    "hl": null
   },
   {
-   "start": 558.23,
-   "end": 560.918,
+   "start": 559.58,
+   "end": 562.305,
    "lines": [
     "Autant jugent",
     "le gouvernement responsable."
@@ -3231,8 +3231,8 @@
    "hl": null
   },
   {
-   "start": 563.868,
-   "end": 566.76,
+   "start": 565.255,
+   "end": 568.102,
    "lines": [
     "Une manifestation",
     "peut remplir une rue."
@@ -3241,8 +3241,8 @@
    "hl": null
   },
   {
-   "start": 566.91,
-   "end": 569.611,
+   "start": 568.251,
+   "end": 570.926,
    "lines": [
     "Un blocage peut",
     "perturber une journée."
@@ -3251,8 +3251,8 @@
    "hl": null
   },
   {
-   "start": 569.76,
-   "end": 572.454,
+   "start": 571.076,
+   "end": 573.733,
    "lines": [
     "Une grève peut",
     "ralentir une économie."
@@ -3261,8 +3261,8 @@
    "hl": null
   },
   {
-   "start": 572.604,
-   "end": 574.84,
+   "start": 573.883,
+   "end": 576.079,
    "lines": [
     "Mais aucun de ces",
     "éléments ne garantit"
@@ -3271,8 +3271,8 @@
    "hl": null
   },
   {
-   "start": 574.92,
-   "end": 577.242,
+   "start": 576.159,
+   "end": 578.445,
    "lines": [
     "à lui seul une victoire politique."
    ],
@@ -3280,8 +3280,8 @@
    "hl": null
   },
   {
-   "start": 577.793,
-   "end": 579.043,
+   "start": 578.996,
+   "end": 580.26,
    "lines": [
     "Ce qui compte réellement,"
    ],
@@ -3289,8 +3289,8 @@
    "hl": null
   },
   {
-   "start": 579.123,
-   "end": 581.438,
+   "start": 580.34,
+   "end": 582.679,
    "lines": [
     "c'est la capacité d'une",
     "mobilisation à durer,"
@@ -3299,8 +3299,8 @@
    "hl": null
   },
   {
-   "start": 581.518,
-   "end": 583.886,
+   "start": 582.759,
+   "end": 585.356,
    "lines": [
     "à conserver le soutien",
     "de l'opinion et à créer"
@@ -3309,8 +3309,8 @@
    "hl": null
   },
   {
-   "start": 583.966,
-   "end": 586.014,
+   "start": 585.436,
+   "end": 587.442,
    "lines": [
     "un coût politique",
     "suffisamment important"
@@ -3319,8 +3319,8 @@
    "hl": null
   },
   {
-   "start": 586.094,
-   "end": 588.196,
+   "start": 587.522,
+   "end": 589.58,
    "lines": [
     "pour que le gouvernement",
     "préfère négocier"
@@ -3329,8 +3329,8 @@
    "hl": null
   },
   {
-   "start": 588.276,
-   "end": 591.027,
+   "start": 589.66,
+   "end": 592.361,
    "lines": [
     "plutôt que continuer",
     "à ignorer la contestation."
@@ -3339,8 +3339,8 @@
    "hl": null
   },
   {
-   "start": 591.377,
-   "end": 594.587,
+   "start": 592.711,
+   "end": 595.892,
    "lines": [
     "Le 17 octobre sera donc",
     "moins un test du nombre"
@@ -3349,8 +3349,8 @@
    "hl": "17 octobre"
   },
   {
-   "start": 594.667,
-   "end": 598.394,
+   "start": 595.972,
+   "end": 599.668,
    "lines": [
     "de personnes dans la rue",
     "qu'un test du rapport de force."
@@ -3359,8 +3359,8 @@
    "hl": null
   },
   {
-   "start": 600.143,
-   "end": 601.928,
+   "start": 601.418,
+   "end": 603.227,
    "lines": [
     "La vraie question",
     "n'est peut-être pas :"
@@ -3369,8 +3369,8 @@
    "hl": null
   },
   {
-   "start": 602.008,
-   "end": 603.976,
+   "start": 603.307,
+   "end": 605.199,
    "lines": [
     "combien seront-ils ?"
    ],
@@ -3378,8 +3378,8 @@
    "hl": null
   },
   {
-   "start": 604.726,
-   "end": 606.522,
+   "start": 605.95,
+   "end": 607.751,
    "lines": [
     "Mais :",
     "combien de temps le pouvoir"
@@ -3388,8 +3388,8 @@
    "hl": null
   },
   {
-   "start": 606.602,
-   "end": 609.335,
+   "start": 607.831,
+   "end": 610.57,
    "lines": [
     "pourra-t-il se permettre",
     "de ne pas répondre ?"
@@ -3398,6 +3398,6 @@
    "hl": null
   }
  ],
- "total": 632.085,
- "vo_end": 609.085
+ "total": 633.32,
+ "vo_end": 610.32
 }

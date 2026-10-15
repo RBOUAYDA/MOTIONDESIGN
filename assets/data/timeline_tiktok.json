@@ -5,8 +5,8 @@
    "section": "tk",
    "text": "Bloquer son lycée… ça peut vraiment faire reculer l'État ?",
    "start": 0.15,
-   "end": 3.291,
-   "dur": 3.1407083333333334,
+   "end": 3.138,
+   "dur": 2.988166666666667,
    "file": "assets/voice/tiktok/t1.wav",
    "style": "n",
    "pause": 0.35
@@ -15,9 +15,9 @@
    "key": "t2",
    "section": "tk",
    "text": "Tout est parti mi-septembre d'un lycée de Créteil.",
-   "start": 3.641,
-   "end": 6.501,
-   "dur": 2.8605,
+   "start": 3.488,
+   "end": 6.397,
+   "dur": 2.9092708333333333,
    "file": "assets/voice/tiktok/t2.wav",
    "style": "n",
    "pause": 0.15
@@ -26,9 +26,9 @@
    "key": "t3",
    "section": "tk",
    "text": "Des profs non remplacés, des classes surchargées, des bâtiments dégradés.",
-   "start": 6.651,
-   "end": 10.422,
-   "dur": 3.7706875,
+   "start": 6.547,
+   "end": 10.326,
+   "dur": 3.778770833333333,
    "file": "assets/voice/tiktok/t3.wav",
    "style": "n",
    "pause": 0.15
@@ -37,9 +37,9 @@
    "key": "t4",
    "section": "tk",
    "text": "Puis toute la France.",
-   "start": 10.572,
-   "end": 11.954,
-   "dur": 1.3823541666666668,
+   "start": 10.476,
+   "end": 11.869,
+   "dur": 1.3932083333333334,
    "file": "assets/voice/tiktok/t4.wav",
    "style": "n",
    "pause": 0.35
@@ -48,9 +48,9 @@
    "key": "t5",
    "section": "tk",
    "text": "Le 13 octobre : 161 500 manifestants selon l'Intérieur, 480 000 selon les organisateurs.",
-   "start": 12.304,
-   "end": 20.439,
-   "dur": 8.1345625,
+   "start": 12.219,
+   "end": 19.969,
+   "dur": 7.749666666666666,
    "file": "assets/voice/tiktok/t5.wav",
    "style": "n",
    "pause": 0.15
@@ -59,9 +59,9 @@
    "key": "t6",
    "section": "tk",
    "text": "214 lycées fermés.",
-   "start": 20.589,
-   "end": 22.546,
-   "dur": 1.9570833333333333,
+   "start": 20.119,
+   "end": 22.063,
+   "dur": 1.9441875,
    "file": "assets/voice/tiktok/t6.wav",
    "style": "n",
    "pause": 0.35
@@ -70,9 +70,9 @@
    "key": "t7",
    "section": "tk",
    "text": "6 877 gardes à vue au 8 octobre, 86 % de mineurs.",
-   "start": 22.896,
-   "end": 28.802,
-   "dur": 5.906125,
+   "start": 22.413,
+   "end": 28.167,
+   "dur": 5.7540625,
    "file": "assets/voice/tiktok/t7.wav",
    "style": "n",
    "pause": 0.15
@@ -81,9 +81,9 @@
    "key": "t8",
    "section": "tk",
    "text": "36 enquêtes confiées à l'IGPN.",
-   "start": 28.952,
-   "end": 31.258,
-   "dur": 2.3061875,
+   "start": 28.317,
+   "end": 30.687,
+   "dur": 2.3697291666666667,
    "file": "assets/voice/tiktok/t8.wav",
    "style": "n",
    "pause": 0.15
@@ -92,9 +92,9 @@
    "key": "t9",
    "section": "tk",
    "text": "Et 24 lycées incendiés ou saccagés selon le ministre.",
-   "start": 31.408,
-   "end": 35.181,
-   "dur": 3.77325,
+   "start": 30.837,
+   "end": 34.632,
+   "dur": 3.7945208333333333,
    "file": "assets/voice/tiktok/t9.wav",
    "style": "n",
    "pause": 0.35
@@ -103,9 +103,9 @@
    "key": "t10",
    "section": "tk",
    "text": "Le gouvernement a annoncé 3 000 remplaçants, et promet ses décisions fin octobre.",
-   "start": 35.531,
-   "end": 40.41,
-   "dur": 4.8780833333333335,
+   "start": 34.982,
+   "end": 39.897,
+   "dur": 4.9152708333333335,
    "file": "assets/voice/tiktok/t10.wav",
    "style": "n",
    "pause": 0.2
@@ -114,9 +114,9 @@
    "key": "t11",
    "section": "tk",
    "text": "Pourquoi pas plus ?",
-   "start": 40.61,
-   "end": 41.539,
-   "dur": 0.9293125,
+   "start": 40.097,
+   "end": 41.02,
+   "dur": 0.9230625,
    "file": "assets/voice/tiktok/t11.wav",
    "style": "n",
    "pause": 0.3
@@ -125,9 +125,9 @@
    "key": "t12",
    "section": "tk",
    "text": "Parce que l'opinion est partagée : 57 % soutiennent le mouvement… mais 53 % veulent qu'il s'arrête.",
-   "start": 41.839,
-   "end": 48.346,
-   "dur": 6.5073125,
+   "start": 41.32,
+   "end": 47.908,
+   "dur": 6.587625,
    "file": "assets/voice/tiktok/t12.wav",
    "style": "n",
    "pause": 0.2
@@ -136,9 +136,9 @@
    "key": "t13",
    "section": "tk",
    "text": "Et un lycée bloqué ne paralyse pas l'économie.",
-   "start": 48.546,
-   "end": 50.982,
-   "dur": 2.4356666666666666,
+   "start": 48.108,
+   "end": 50.628,
+   "dur": 2.5200833333333335,
    "file": "assets/voice/tiktok/t13.wav",
    "style": "n",
    "pause": 0.35
@@ -147,9 +147,9 @@
    "key": "t14",
    "section": "tk",
    "text": "L'histoire le montre : le CPE a été retiré en 2006.",
-   "start": 51.332,
-   "end": 55.617,
-   "dur": 4.284916666666667,
+   "start": 50.978,
+   "end": 55.32,
+   "dur": 4.342145833333333,
    "file": "assets/voice/tiktok/t14.wav",
    "style": "n",
    "pause": 0.15
@@ -158,9 +158,9 @@
    "key": "t15",
    "section": "tk",
    "text": "Les retraites 2010 et 2023 sont passées.",
-   "start": 55.767,
-   "end": 59.425,
-   "dur": 3.6578125,
+   "start": 55.47,
+   "end": 58.986,
+   "dur": 3.515979166666667,
    "file": "assets/voice/tiktok/t15.wav",
    "style": "n",
    "pause": 0.3
@@ -169,9 +169,9 @@
    "key": "t16",
    "section": "tk",
    "text": "Ce qui fait bouger un gouvernement, c'est la durée, l'opinion, les grèves dans plusieurs secteurs, le coût politique.",
-   "start": 59.725,
-   "end": 66.033,
-   "dur": 6.308083333333333,
+   "start": 59.286,
+   "end": 65.52,
+   "dur": 6.233895833333333,
    "file": "assets/voice/tiktok/t16.wav",
    "style": "n",
    "pause": 0.15
@@ -180,9 +180,9 @@
    "key": "t17",
    "section": "tk",
    "text": "Pas la violence.",
-   "start": 66.183,
-   "end": 67.475,
-   "dur": 1.2919583333333333,
+   "start": 65.67,
+   "end": 66.84,
+   "dur": 1.170625,
    "file": "assets/voice/tiktok/t17.wav",
    "style": "n",
    "pause": 0.4
@@ -191,9 +191,9 @@
    "key": "t18",
    "section": "tk",
    "text": "Samedi 17 octobre, nouveau test.",
-   "start": 67.875,
-   "end": 70.486,
-   "dur": 2.6111666666666666,
+   "start": 67.24,
+   "end": 69.704,
+   "dur": 2.463229166666667,
    "file": "assets/voice/tiktok/t18.wav",
    "style": "n",
    "pause": 0.3
@@ -202,9 +202,9 @@
    "key": "t19",
    "section": "tk",
    "text": "Pour toi, qu'est-ce qui ferait vraiment bouger les choses ?",
-   "start": 70.786,
-   "end": 73.714,
-   "dur": 2.928625,
+   "start": 70.004,
+   "end": 72.821,
+   "dur": 2.8175833333333333,
    "file": "assets/voice/tiktok/t19.wav",
    "style": "n",
    "pause": 0.0
@@ -215,13 +215,13 @@
    "id": "tk",
    "start": 0.15,
    "vo_start": 0.15,
-   "end": 73.71439583333333
+   "end": 72.82108333333333
   }
  ],
  "subs": [
   {
    "start": 0.15,
-   "end": 3.541,
+   "end": 3.388,
    "lines": [
     "Bloquer son lycée… ça peut",
     "vraiment faire reculer l'État ?"
@@ -230,8 +230,8 @@
    "hl": null
   },
   {
-   "start": 3.641,
-   "end": 6.571,
+   "start": 3.488,
+   "end": 6.467,
    "lines": [
     "Tout est parti mi-septembre",
     "d'un lycée de Créteil."
@@ -240,8 +240,8 @@
    "hl": null
   },
   {
-   "start": 6.651,
-   "end": 7.828,
+   "start": 6.547,
+   "end": 7.727,
    "lines": [
     "Des profs non remplacés,"
    ],
@@ -249,8 +249,8 @@
    "hl": null
   },
   {
-   "start": 7.908,
-   "end": 10.492,
+   "start": 7.807,
+   "end": 10.396,
    "lines": [
     "des classes surchargées,",
     "des bâtiments dégradés."
@@ -259,8 +259,8 @@
    "hl": null
   },
   {
-   "start": 10.572,
-   "end": 12.204,
+   "start": 10.476,
+   "end": 12.119,
    "lines": [
     "Puis toute la France."
    ],
@@ -268,8 +268,8 @@
    "hl": null
   },
   {
-   "start": 12.304,
-   "end": 17.139,
+   "start": 12.219,
+   "end": 16.851,
    "lines": [
     "Le 13 octobre :",
     "161 500 manifestants selon"
@@ -278,8 +278,8 @@
    "hl": "13 octobre :"
   },
   {
-   "start": 17.219,
-   "end": 20.509,
+   "start": 16.931,
+   "end": 20.039,
    "lines": [
     "l'Intérieur, 480 000",
     "selon les organisateurs."
@@ -288,8 +288,8 @@
    "hl": "480 000"
   },
   {
-   "start": 20.589,
-   "end": 22.796,
+   "start": 20.119,
+   "end": 22.313,
    "lines": [
     "214 lycées fermés."
    ],
@@ -297,8 +297,8 @@
    "hl": "214 lycées"
   },
   {
-   "start": 22.896,
-   "end": 28.872,
+   "start": 22.413,
+   "end": 28.237,
    "lines": [
     "6 877 gardes à vue",
     "au 8 octobre, 86 % de mineurs."
@@ -307,8 +307,8 @@
    "hl": "6 877 gardes"
   },
   {
-   "start": 28.952,
-   "end": 31.328,
+   "start": 28.317,
+   "end": 30.757,
    "lines": [
     "36 enquêtes confiées à l'IGPN."
    ],
@@ -316,8 +316,8 @@
    "hl": "36 enquêtes"
   },
   {
-   "start": 31.408,
-   "end": 35.431,
+   "start": 30.837,
+   "end": 34.882,
    "lines": [
     "Et 24 lycées incendiés",
     "ou saccagés selon le ministre."
@@ -326,8 +326,8 @@
    "hl": "24 lycées"
   },
   {
-   "start": 35.531,
-   "end": 38.287,
+   "start": 34.982,
+   "end": 37.76,
    "lines": [
     "Le gouvernement a",
     "annoncé 3 000 remplaçants,"
@@ -336,8 +336,8 @@
    "hl": "3 000 remplaçants,"
   },
   {
-   "start": 38.367,
-   "end": 40.53,
+   "start": 37.84,
+   "end": 40.017,
    "lines": [
     "et promet",
     "ses décisions fin octobre."
@@ -346,8 +346,8 @@
    "hl": null
   },
   {
-   "start": 40.61,
-   "end": 41.759,
+   "start": 40.097,
+   "end": 41.24,
    "lines": [
     "Pourquoi pas plus ?"
    ],
@@ -355,8 +355,8 @@
    "hl": null
   },
   {
-   "start": 41.839,
-   "end": 43.362,
+   "start": 41.32,
+   "end": 42.863,
    "lines": [
     "Parce que l'opinion",
     "est partagée :"
@@ -365,8 +365,8 @@
    "hl": null
   },
   {
-   "start": 43.442,
-   "end": 45.72,
+   "start": 42.943,
+   "end": 45.25,
    "lines": [
     "57 % soutiennent",
     "le mouvement…"
@@ -375,8 +375,8 @@
    "hl": "57 %"
   },
   {
-   "start": 45.8,
-   "end": 48.466,
+   "start": 45.33,
+   "end": 48.028,
    "lines": [
     "mais 53 % veulent qu'il s'arrête."
    ],
@@ -384,8 +384,8 @@
    "hl": "53 %"
   },
   {
-   "start": 48.546,
-   "end": 51.232,
+   "start": 48.108,
+   "end": 50.878,
    "lines": [
     "Et un lycée bloqué",
     "ne paralyse pas l'économie."
@@ -394,8 +394,8 @@
    "hl": null
   },
   {
-   "start": 51.332,
-   "end": 55.687,
+   "start": 50.978,
+   "end": 55.39,
    "lines": [
     "L'histoire le montre :",
     "le CPE a été retiré en 2006."
@@ -404,8 +404,8 @@
    "hl": "2006."
   },
   {
-   "start": 55.767,
-   "end": 59.645,
+   "start": 55.47,
+   "end": 59.206,
    "lines": [
     "Les retraites 2010",
     "et 2023 sont passées."
@@ -414,8 +414,8 @@
    "hl": "2010"
   },
   {
-   "start": 59.725,
-   "end": 62.341,
+   "start": 59.286,
+   "end": 61.103,
    "lines": [
     "Ce qui fait bouger",
     "un gouvernement,"
@@ -424,8 +424,8 @@
    "hl": null
   },
   {
-   "start": 62.421,
-   "end": 63.515,
+   "start": 61.183,
+   "end": 62.55,
    "lines": [
     "c'est la durée, l'opinion,"
    ],
@@ -433,8 +433,8 @@
    "hl": null
   },
   {
-   "start": 63.595,
-   "end": 66.103,
+   "start": 62.63,
+   "end": 65.59,
    "lines": [
     "les grèves dans plusieurs",
     "secteurs, le coût politique."
@@ -443,8 +443,8 @@
    "hl": null
   },
   {
-   "start": 66.183,
-   "end": 67.725,
+   "start": 65.67,
+   "end": 67.091,
    "lines": [
     "Pas la violence."
    ],
@@ -452,8 +452,8 @@
    "hl": null
   },
   {
-   "start": 67.875,
-   "end": 70.706,
+   "start": 67.24,
+   "end": 69.924,
    "lines": [
     "Samedi 17 octobre,",
     "nouveau test."
@@ -462,8 +462,8 @@
    "hl": "17 octobre,"
   },
   {
-   "start": 70.786,
-   "end": 73.965,
+   "start": 70.004,
+   "end": 73.072,
    "lines": [
     "Pour toi, qu'est-ce qui ferait",
     "vraiment bouger les choses ?"
@@ -472,6 +472,6 @@
    "hl": null
   }
  ],
- "total": 76.914,
- "vo_end": 73.714
+ "total": 76.021,
+ "vo_end": 72.821
 }
