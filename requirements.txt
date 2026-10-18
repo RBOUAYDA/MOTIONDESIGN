@@ -1,0 +1,9 @@
+# Dépendances Python de la chaîne de production (installées par .claude/hooks/session-start.sh)
+numpy
+scipy
+pillow
+skia-python
+soundfile
+pyloudnorm
+sherpa-onnx
+# num2words s'installe avec --no-deps (sa dépendance docopt ne compile pas avec le setuptools système)
